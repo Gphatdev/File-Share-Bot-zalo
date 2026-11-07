@@ -1,0 +1,263 @@
+/** Cấu hình VBANK mặc định (dùng khi config.json thiếu/hỏng/không có danh sách ngân hàng). */
+export const DEFAULT_CONFIG = {
+  "enabled": true,
+  "accountNumberMin": 8,
+  "accountNumberMax": 13,
+  "maxTransfer": 1000000000,
+  "conversationTtlMs": 300000,
+  "defaultBrandColor": "#24344d",
+  "banks": [
+    {
+      "id": "VCB",
+      "name": "Vietcombank",
+      "shortName": "VCB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "BIDV",
+      "name": "BIDV",
+      "shortName": "BIDV",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "CTG",
+      "name": "VietinBank",
+      "shortName": "CTG",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "AGR",
+      "name": "Agribank",
+      "shortName": "AGR",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "MB",
+      "name": "MB Bank",
+      "shortName": "MB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "TCB",
+      "name": "Techcombank",
+      "shortName": "TCB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "ACB",
+      "name": "ACB",
+      "shortName": "ACB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "VPB",
+      "name": "VPBank",
+      "shortName": "VPB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "TPB",
+      "name": "TPBank",
+      "shortName": "TPB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "STB",
+      "name": "Sacombank",
+      "shortName": "STB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "VIB",
+      "name": "VIB",
+      "shortName": "VIB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "SHB",
+      "name": "SHB",
+      "shortName": "SHB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "HDB",
+      "name": "HDBank",
+      "shortName": "HDB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "MSB",
+      "name": "MSB",
+      "shortName": "MSB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "OCB",
+      "name": "OCB",
+      "shortName": "OCB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "EIB",
+      "name": "Eximbank",
+      "shortName": "EIB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "SEAB",
+      "name": "SeABank",
+      "shortName": "SeABank",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "NAB",
+      "name": "Nam A Bank",
+      "shortName": "NAB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "ABB",
+      "name": "ABBank",
+      "shortName": "ABB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "BAB",
+      "name": "Bac A Bank",
+      "shortName": "BAB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "VBB",
+      "name": "VietBank",
+      "shortName": "VBB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "PVCB",
+      "name": "PVcomBank",
+      "shortName": "PVCB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "BVB",
+      "name": "BaoViet Bank",
+      "shortName": "BVB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "KLB",
+      "name": "KienlongBank",
+      "shortName": "KLB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "LPB",
+      "name": "LPBank",
+      "shortName": "LPB",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "COB",
+      "name": "Co-opBank",
+      "shortName": "Co-op",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "CAKE",
+      "name": "Cake by VPBank",
+      "shortName": "Cake",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    },
+    {
+      "id": "TIMO",
+      "name": "Timo",
+      "shortName": "Timo",
+      "logoPath": null,
+      "brandColor": "#24344d",
+      "officialWebsite": null,
+      "verified": false
+    }
+  ]
+};

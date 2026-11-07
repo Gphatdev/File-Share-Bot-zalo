@@ -1,0 +1,74 @@
+[
+  {
+    "id": "crop_lua",
+    "seedId": "seed_lua",
+    "name": "Lúa",
+    "baseSellPrice": 80,
+    "rarity": "common",
+    "icon": "🌾",
+    "color": "#F5D76E"
+  },
+  {
+    "id": "crop_ca_chua",
+    "seedId": "seed_ca_chua",
+    "name": "Cà Chua",
+    "baseSellPrice": 120,
+    "rarity": "common",
+    "icon": "🍅",
+    "color": "#E74C3C"
+  },
+  {
+    "id": "crop_carot",
+    "seedId": "seed_carot",
+    "name": "Cà Rốt",
+    "baseSellPrice": 150,
+    "rarity": "uncommon",
+    "icon": "🥕",
+    "color": "#E67E22"
+  },
+  {
+    "id": "crop_dua_hau",
+    "seedId": "seed_dua_hau",
+    "name": "Dưa Hấu",
+    "baseSellPrice": 350,
+    "rarity": "uncommon",
+    "icon": "🍉",
+    "color": "#27AE60"
+  },
+  {
+    "id": "crop_nho",
+    "seedId": "seed_nho",
+    "name": "Nho",
+    "baseSellPrice": 280,
+    "rarity": "rare",
+    "icon": "🍇",
+    "color": "#8E44AD"
+  },
+  {
+    "id": "crop_dao",
+    "seedId": "seed_dao",
+    "name": "Đào",
+    "baseSellPrice": 600,
+    "rarity": "rare",
+    "icon": "🍑",
+    "color": "#FF6B9D"
+  },
+  {
+    "id": "crop_dua_vang",
+    "seedId": "seed_dua_vang",
+    "name": "Dưa Vàng",
+    "baseSellPrice": 1500,
+    "rarity": "epic",
+    "icon": "🍈",
+    "color": "#F1C40F"
+  },
+  {
+    "id": "crop_linh_chi",
+    "seedId": "seed_linh_chi",
+    "name": "Linh Chi",
+    "baseSellPrice": 5000,
+    "rarity": "legendary",
+    "icon": "🍄",
+    "color": "#E74C3C"
+  }
+]

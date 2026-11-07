@@ -1,0 +1,83 @@
+[
+  {
+    "id": "first_plant",
+    "name": "Gieo Hạt Đầu Tiên",
+    "description": "Trồng cây lần đầu",
+    "condition": {
+      "plants": 1
+    },
+    "rewardExp": 50
+  },
+  {
+    "id": "first_harvest",
+    "name": "Mùa Vụ Đầu",
+    "description": "Thu hoạch lần đầu",
+    "condition": {
+      "harvests": 1
+    },
+    "rewardExp": 80
+  },
+  {
+    "id": "sell_1000",
+    "name": "Buôn Bán Nhỏ",
+    "description": "Bán tổng 1.000 xu nông sản",
+    "condition": {
+      "soldValue": 1000
+    },
+    "rewardExp": 100
+  },
+  {
+    "id": "sell_50000",
+    "name": "Thương Gia Nông Sản",
+    "description": "Bán tổng 50.000 xu",
+    "condition": {
+      "soldValue": 50000
+    },
+    "rewardExp": 300
+  },
+  {
+    "id": "plant_50",
+    "name": "Tay Nghề",
+    "description": "Trồng 50 cây",
+    "condition": {
+      "plants": 50
+    },
+    "rewardExp": 200
+  },
+  {
+    "id": "harvest_100",
+    "name": "Thu Hoạch Siêu Cấp",
+    "description": "Thu hoạch 100 lần",
+    "condition": {
+      "harvests": 100
+    },
+    "rewardExp": 400
+  },
+  {
+    "id": "own_magic_land",
+    "name": "Chủ Đất Thần Kỳ",
+    "description": "Sở hữu Đất Thần Kỳ",
+    "condition": {
+      "landId": "land_magic"
+    },
+    "rewardExp": 500
+  },
+  {
+    "id": "level_10",
+    "name": "Nông Dân Cấp 10",
+    "description": "Đạt cấp nông nghiệp 10",
+    "condition": {
+      "level": 10
+    },
+    "rewardExp": 250
+  },
+  {
+    "id": "level_30",
+    "name": "Đại Gia Nông Trại",
+    "description": "Đạt cấp nông nghiệp 30",
+    "condition": {
+      "level": 30
+    },
+    "rewardExp": 800
+  }
+]

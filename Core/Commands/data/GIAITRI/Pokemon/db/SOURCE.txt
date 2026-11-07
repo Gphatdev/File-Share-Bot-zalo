@@ -1,0 +1,1 @@
+Generated 2026-10-09T10:30:28.984Z from PokeAPI/api-data (FireRed/LeafGreen learnsets & encounters, Pokédex #1-151).

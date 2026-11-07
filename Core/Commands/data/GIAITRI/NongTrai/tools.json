@@ -1,0 +1,98 @@
+[
+  {
+    "id": "tool_hoe_wood",
+    "name": "Cuốc Gỗ",
+    "type": "hoe",
+    "description": "Cuốc gỗ cơ bản. +5% sản lượng thu hoạch.",
+    "effect": {
+      "yieldBonus": 0.05
+    },
+    "price": 2500,
+    "rarity": "common",
+    "unlockLevel": 1
+  },
+  {
+    "id": "tool_hoe_iron",
+    "name": "Cuốc Sắt",
+    "type": "hoe",
+    "description": "Cuốc sắt chắc tay. +12% sản lượng thu hoạch.",
+    "effect": {
+      "yieldBonus": 0.12
+    },
+    "price": 15000,
+    "rarity": "uncommon",
+    "unlockLevel": 5
+  },
+  {
+    "id": "tool_hoe_gold",
+    "name": "Cuốc Vàng",
+    "type": "hoe",
+    "description": "Cuốc dát vàng quý hiếm. +25% sản lượng thu hoạch.",
+    "effect": {
+      "yieldBonus": 0.25
+    },
+    "price": 90000,
+    "rarity": "rare",
+    "unlockLevel": 15
+  },
+  {
+    "id": "tool_bucket_tin",
+    "name": "Xô Nước Thiếc",
+    "type": "bucket",
+    "description": "Xô tưới cây cơ bản. Cây lớn nhanh hơn 5%.",
+    "effect": {
+      "growthBonus": 0.05
+    },
+    "price": 2000,
+    "rarity": "common",
+    "unlockLevel": 1
+  },
+  {
+    "id": "tool_bucket_copper",
+    "name": "Xô Nước Đồng",
+    "type": "bucket",
+    "description": "Xô đồng giữ nước tốt. Cây lớn nhanh hơn 10%.",
+    "effect": {
+      "growthBonus": 0.1
+    },
+    "price": 12000,
+    "rarity": "uncommon",
+    "unlockLevel": 5
+  },
+  {
+    "id": "tool_bucket_gold",
+    "name": "Xô Nước Vàng",
+    "type": "bucket",
+    "description": "Xô vàng tưới cây mát lành. Cây lớn nhanh hơn 16%.",
+    "effect": {
+      "growthBonus": 0.16
+    },
+    "price": 70000,
+    "rarity": "rare",
+    "unlockLevel": 15
+  },
+  {
+    "id": "tool_sprinkler_auto",
+    "name": "Máy Tưới Tự Động",
+    "type": "sprinkler",
+    "description": "Tự động tưới toàn vườn. Cây lớn nhanh hơn 20%.",
+    "effect": {
+      "growthBonus": 0.2
+    },
+    "price": 40000,
+    "rarity": "rare",
+    "unlockLevel": 8
+  },
+  {
+    "id": "tool_sprinkler_pro",
+    "name": "Máy Tưới Siêu Cấp",
+    "type": "sprinkler",
+    "description": "Máy tưới năng lượng mặt trời. Cây lớn nhanh hơn 32%.",
+    "effect": {
+      "growthBonus": 0.32
+    },
+    "price": 200000,
+    "rarity": "epic",
+    "unlockLevel": 20
+  }
+]

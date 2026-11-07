@@ -1,0 +1,337 @@
+{
+  "root": "C:\\Users\\laptop\\Desktop\\BOT ZALO V1\\hnnp-basic\\chatbot-zalo-basic",
+  "time": "2026-10-12T22-43-08-283Z",
+  "backedUp": [
+    {
+      "rel": "Core/Commands/data/shop_data.json",
+      "sha": "e30102af8099cc6b1449d85ebc0c0bddd3303396e69d86c9177992a97c2a372d"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/baucua/bau.jpg",
+      "sha": "33630cf0f2ab5c9ddea8e939cfef46fbce183ab0d8778169b78387da214135b8"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/baucua/ca.jpg",
+      "sha": "d7237291316e0f543f4954050831632978b600060c39cbc50473d584c14aa1a2"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/baucua/cua.jpg",
+      "sha": "735092909cfdb233e52ea3cffe69a00830277e9ed924ca73d7715ea7f7367eaa"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/baucua/ga.jpg",
+      "sha": "37b7c40c6530389bec682ab1f0da30d5392f10c9d7cfb04f8f56fa57e97404f5"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/baucua/gif.gif",
+      "sha": "cb5f8fc05caba5efd49b8e918f387796790615498a6da5b3f76f74986bba7923"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/baucua/nai.jpg",
+      "sha": "4af1dc14544f5f92fdd820c65b5f1d86642559fccae1925292acafc6b264c73e"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/baucua/tom.jpg",
+      "sha": "83e5a9a08daf70c8d02cfa9d274f8fd4fbb6de68fb852d004c94e780723dc53e"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/taixiu/dice_1.jpg",
+      "sha": "b0cd5b6274bbf18a6d8dc18c26291de88dcfa4e1b651f6422741fd972e963fa7"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/taixiu/dice_2.jpg",
+      "sha": "4d40ecafaf1f7ae4f489225ef31435ca1224da0930e6c8f8162b6e3fdd8b1169"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/taixiu/dice_3.jpg",
+      "sha": "556caca294b0b88f8b560d93f5243ba6fc5fcb907d7d5718eed88c6f83eb271b"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/taixiu/dice_4.jpg",
+      "sha": "a69e047a23aecb5aa380e94983628921b7af5951bb8193718ba2da0c89046638"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/taixiu/dice_5.jpg",
+      "sha": "036e76e6b9fc432115a53442ae81cfad56c45a1ea6c96c983ddb2ccae506772c"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/taixiu/dice_6.jpg",
+      "sha": "61dfaef8bb3e08c8540f93b198116ca9fdfe6c563ea89e1116191fa786ef793c"
+    },
+    {
+      "rel": "Core/Commands/GameAssets/taixiu/result.jpg",
+      "sha": "360c474fbd4de3ef30fe26a7fb0a03f8ceddc5d36135f0fe8a1ea18dcc2c69bf"
+    },
+    {
+      "rel": "Core/Commands/cache/taixiu/dice_1.jpg",
+      "sha": "b0cd5b6274bbf18a6d8dc18c26291de88dcfa4e1b651f6422741fd972e963fa7"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/dice/dice_1.jpg",
+      "sha": "b0cd5b6274bbf18a6d8dc18c26291de88dcfa4e1b651f6422741fd972e963fa7"
+    },
+    {
+      "rel": "Core/Commands/cache/taixiu/dice_2.jpg",
+      "sha": "4d40ecafaf1f7ae4f489225ef31435ca1224da0930e6c8f8162b6e3fdd8b1169"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/dice/dice_2.jpg",
+      "sha": "4d40ecafaf1f7ae4f489225ef31435ca1224da0930e6c8f8162b6e3fdd8b1169"
+    },
+    {
+      "rel": "Core/Commands/cache/taixiu/dice_3.jpg",
+      "sha": "556caca294b0b88f8b560d93f5243ba6fc5fcb907d7d5718eed88c6f83eb271b"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/dice/dice_3.jpg",
+      "sha": "556caca294b0b88f8b560d93f5243ba6fc5fcb907d7d5718eed88c6f83eb271b"
+    },
+    {
+      "rel": "Core/Commands/cache/taixiu/dice_4.jpg",
+      "sha": "a69e047a23aecb5aa380e94983628921b7af5951bb8193718ba2da0c89046638"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/dice/dice_4.jpg",
+      "sha": "a69e047a23aecb5aa380e94983628921b7af5951bb8193718ba2da0c89046638"
+    },
+    {
+      "rel": "Core/Commands/cache/taixiu/dice_5.jpg",
+      "sha": "036e76e6b9fc432115a53442ae81cfad56c45a1ea6c96c983ddb2ccae506772c"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/dice/dice_5.jpg",
+      "sha": "036e76e6b9fc432115a53442ae81cfad56c45a1ea6c96c983ddb2ccae506772c"
+    },
+    {
+      "rel": "Core/Commands/cache/taixiu/dice_6.jpg",
+      "sha": "61dfaef8bb3e08c8540f93b198116ca9fdfe6c563ea89e1116191fa786ef793c"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/dice/dice_6.jpg",
+      "sha": "61dfaef8bb3e08c8540f93b198116ca9fdfe6c563ea89e1116191fa786ef793c"
+    },
+    {
+      "rel": "Core/Commands/data/Luotdung/bank_user_turns.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/TINHDIEM/Luotdung/bank_user_turns.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/Luotdung/tinhdiem_vohan.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/TINHDIEM/Luotdung/tinhdiem_vohan.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/Luotdung/vohan_box.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/TINHDIEM/Luotdung/vohan_box.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/keys.json",
+      "sha": "f84a55447997efaa5024c6d7893449fba59aa2889254eb6d6bcbd9415f908d11"
+    },
+    {
+      "rel": "Core/Commands/data/autotd_box_config.json",
+      "sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "rel": "Core/Commands/data/autotd_enabled_boxes.json",
+      "sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "rel": "Core/Commands/data/limit.json",
+      "sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "rel": "Core/Commands/data/QRauto/bankData2.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/QRAPIAssets/background/BGQR1.json",
+      "sha": "09c91ad900093dac381518c6e759eec77976cfede6ab1abcd4c05f076c1974df"
+    },
+    {
+      "rel": "Core/Commands/data/QRAPIAssets/background/BGQR1.png",
+      "sha": "d4ef8f7b0f303a359d1360127cc8200607ce8c265de48ef409e1c63e272acdb7"
+    },
+    {
+      "rel": "Core/Commands/data/QRAPIAssets/logos/logo.png",
+      "sha": "853d727b12f084fd13b9f4a35a478f7f93043b8aa84a2f3182e16ca0968d4fe1"
+    },
+    {
+      "rel": "Core/Commands/QRAPIAssets/background/BGQR1.json",
+      "sha": "09c91ad900093dac381518c6e759eec77976cfede6ab1abcd4c05f076c1974df"
+    },
+    {
+      "rel": "Core/Commands/QRAPIAssets/background/BGQR1.png",
+      "sha": "d4ef8f7b0f303a359d1360127cc8200607ce8c265de48ef409e1c63e272acdb7"
+    },
+    {
+      "rel": "Core/Commands/QRAPIAssets/logos/logo.png",
+      "sha": "853d727b12f084fd13b9f4a35a478f7f93043b8aa84a2f3182e16ca0968d4fe1"
+    },
+    {
+      "rel": "Core/Commands/cache/stk_config.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/fonts/BeVietnamPro_400Regular.ttf",
+      "sha": "cb6f53d6fd56316356c55b067474d9621c27b7182b124063b8f6eab6acef63bd"
+    },
+    {
+      "rel": "Core/Commands/data/fonts/BeVietnamPro_600SemiBold.ttf",
+      "sha": "04db63d2a82dd4bb35ba25e00dab1d12febcd0e917856b174b71a24d6f0c9afa"
+    },
+    {
+      "rel": "Core/Commands/data/fonts/BeVietnamPro_700Bold.ttf",
+      "sha": "2fe6c3f9dbb65f61554d530c16b2eb4ec32ca437dc8f9999a6ec0f6403b30bfe"
+    },
+    {
+      "rel": "Core/Commands/data/fonts/BeVietnamPro_800ExtraBold.ttf",
+      "sha": "10fcb42b9cee8e30918843416676ae059e8f77fe439d0c3a4350617ef9f77a75"
+    },
+    {
+      "rel": "Core/Commands/data/fonts/LICENSE",
+      "sha": "f81a99a72ec5e64e3f74fad0db3df27ab69ab0edd4878368f83379d3e4fc9313"
+    }
+  ],
+  "created": [
+    {
+      "rel": "Core/Commands/data/GIAITRI/Shop/shop_data.json",
+      "sha": "e30102af8099cc6b1449d85ebc0c0bddd3303396e69d86c9177992a97c2a372d"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/BauCua/assets/bau.jpg",
+      "sha": "33630cf0f2ab5c9ddea8e939cfef46fbce183ab0d8778169b78387da214135b8"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/BauCua/assets/ca.jpg",
+      "sha": "d7237291316e0f543f4954050831632978b600060c39cbc50473d584c14aa1a2"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/BauCua/assets/cua.jpg",
+      "sha": "735092909cfdb233e52ea3cffe69a00830277e9ed924ca73d7715ea7f7367eaa"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/BauCua/assets/ga.jpg",
+      "sha": "37b7c40c6530389bec682ab1f0da30d5392f10c9d7cfb04f8f56fa57e97404f5"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/BauCua/assets/gif.gif",
+      "sha": "cb5f8fc05caba5efd49b8e918f387796790615498a6da5b3f76f74986bba7923"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/BauCua/assets/nai.jpg",
+      "sha": "4af1dc14544f5f92fdd820c65b5f1d86642559fccae1925292acafc6b264c73e"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/BauCua/assets/tom.jpg",
+      "sha": "83e5a9a08daf70c8d02cfa9d274f8fd4fbb6de68fb852d004c94e780723dc53e"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/assets/dice_1.jpg",
+      "sha": "b0cd5b6274bbf18a6d8dc18c26291de88dcfa4e1b651f6422741fd972e963fa7"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/assets/dice_2.jpg",
+      "sha": "4d40ecafaf1f7ae4f489225ef31435ca1224da0930e6c8f8162b6e3fdd8b1169"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/assets/dice_3.jpg",
+      "sha": "556caca294b0b88f8b560d93f5243ba6fc5fcb907d7d5718eed88c6f83eb271b"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/assets/dice_4.jpg",
+      "sha": "a69e047a23aecb5aa380e94983628921b7af5951bb8193718ba2da0c89046638"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/assets/dice_5.jpg",
+      "sha": "036e76e6b9fc432115a53442ae81cfad56c45a1ea6c96c983ddb2ccae506772c"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/assets/dice_6.jpg",
+      "sha": "61dfaef8bb3e08c8540f93b198116ca9fdfe6c563ea89e1116191fa786ef793c"
+    },
+    {
+      "rel": "Core/Commands/data/GIAITRI/TaiXiu/assets/result.jpg",
+      "sha": "360c474fbd4de3ef30fe26a7fb0a03f8ceddc5d36135f0fe8a1ea18dcc2c69bf"
+    },
+    {
+      "rel": "Core/Commands/data/TINHDIEM/keys.json",
+      "sha": "f84a55447997efaa5024c6d7893449fba59aa2889254eb6d6bcbd9415f908d11"
+    },
+    {
+      "rel": "Core/Commands/data/TINHDIEM/autotd_box_config.json",
+      "sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "rel": "Core/Commands/data/TINHDIEM/autotd_enabled_boxes.json",
+      "sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "rel": "Core/Commands/data/ADMIN/limit.json",
+      "sha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "rel": "Core/Commands/data/KINHTE/QRauto/bankData2.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/KINHTE/QRAPIAssets/background/BGQR1.json",
+      "sha": "09c91ad900093dac381518c6e759eec77976cfede6ab1abcd4c05f076c1974df"
+    },
+    {
+      "rel": "Core/Commands/data/KINHTE/QRAPIAssets/background/BGQR1.png",
+      "sha": "d4ef8f7b0f303a359d1360127cc8200607ce8c265de48ef409e1c63e272acdb7"
+    },
+    {
+      "rel": "Core/Commands/data/KINHTE/QRAPIAssets/logos/logo.png",
+      "sha": "853d727b12f084fd13b9f4a35a478f7f93043b8aa84a2f3182e16ca0968d4fe1"
+    },
+    {
+      "rel": "Core/Commands/data/KINHTE/QRAPIAssets/background/BGQR1.json",
+      "sha": "09c91ad900093dac381518c6e759eec77976cfede6ab1abcd4c05f076c1974df"
+    },
+    {
+      "rel": "Core/Commands/data/KINHTE/QRAPIAssets/background/BGQR1.png",
+      "sha": "d4ef8f7b0f303a359d1360127cc8200607ce8c265de48ef409e1c63e272acdb7"
+    },
+    {
+      "rel": "Core/Commands/data/KINHTE/QRAPIAssets/logos/logo.png",
+      "sha": "853d727b12f084fd13b9f4a35a478f7f93043b8aa84a2f3182e16ca0968d4fe1"
+    },
+    {
+      "rel": "Core/Commands/data/KINHTE/stk_config.json",
+      "sha": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "rel": "Core/Commands/data/MEDIA/fonts/BeVietnamPro_400Regular.ttf",
+      "sha": "cb6f53d6fd56316356c55b067474d9621c27b7182b124063b8f6eab6acef63bd"
+    },
+    {
+      "rel": "Core/Commands/data/MEDIA/fonts/BeVietnamPro_600SemiBold.ttf",
+      "sha": "04db63d2a82dd4bb35ba25e00dab1d12febcd0e917856b174b71a24d6f0c9afa"
+    },
+    {
+      "rel": "Core/Commands/data/MEDIA/fonts/BeVietnamPro_700Bold.ttf",
+      "sha": "2fe6c3f9dbb65f61554d530c16b2eb4ec32ca437dc8f9999a6ec0f6403b30bfe"
+    },
+    {
+      "rel": "Core/Commands/data/MEDIA/fonts/BeVietnamPro_800ExtraBold.ttf",
+      "sha": "10fcb42b9cee8e30918843416676ae059e8f77fe439d0c3a4350617ef9f77a75"
+    },
+    {
+      "rel": "Core/Commands/data/MEDIA/fonts/LICENSE",
+      "sha": "f81a99a72ec5e64e3f74fad0db3df27ab69ab0edd4878368f83379d3e4fc9313"
+    }
+  ],
+  "conflictFiles": []
+}

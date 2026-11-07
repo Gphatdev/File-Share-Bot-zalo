@@ -1,0 +1,72 @@
+[
+  {
+    "id": "land_basic",
+    "name": "Đất Cơ Bản",
+    "description": "Đất thường dành cho người mới bắt đầu.",
+    "price": 5000,
+    "plots": 4,
+    "unlockLevel": 1,
+    "growthBonus": 0,
+    "yieldBonus": 0,
+    "rarityBonus": 0,
+    "icon": "🟫",
+    "color": "#8D5A35",
+    "privileges": [
+      "Trồng cây cơ bản"
+    ]
+  },
+  {
+    "id": "land_fertile",
+    "name": "Đất Màu Mỡ",
+    "description": "Đất giàu dinh dưỡng, cây phát triển nhanh hơn 15%.",
+    "price": 25000,
+    "plots": 6,
+    "unlockLevel": 5,
+    "growthBonus": 0.15,
+    "yieldBonus": 0.1,
+    "rarityBonus": 0,
+    "icon": "🟩",
+    "color": "#27AE60",
+    "privileges": [
+      "+15% tốc độ phát triển",
+      "+10% sản lượng"
+    ]
+  },
+  {
+    "id": "land_premium",
+    "name": "Đất Cao Cấp",
+    "description": "Đất cao cấp với nhiều ô trồng và hỗ trợ mạnh.",
+    "price": 80000,
+    "plots": 10,
+    "unlockLevel": 12,
+    "growthBonus": 0.25,
+    "yieldBonus": 0.2,
+    "rarityBonus": 0.05,
+    "icon": "🟨",
+    "color": "#F39C12",
+    "privileges": [
+      "+25% tốc độ",
+      "+20% sản lượng",
+      "+5% hiếm"
+    ]
+  },
+  {
+    "id": "land_magic",
+    "name": "Đất Thần Kỳ",
+    "description": "Đất thần kỳ với hiệu ứng đặc biệt và cơ hội tăng giá trị.",
+    "price": 250000,
+    "plots": 16,
+    "unlockLevel": 25,
+    "growthBonus": 0.4,
+    "yieldBonus": 0.35,
+    "rarityBonus": 0.15,
+    "icon": "🟪",
+    "color": "#9B59B6",
+    "privileges": [
+      "+40% tốc độ",
+      "+35% sản lượng",
+      "+15% hiếm",
+      "Hiệu ứng đặc biệt"
+    ]
+  }
+]

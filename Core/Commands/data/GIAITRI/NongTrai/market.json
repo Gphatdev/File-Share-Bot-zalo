@@ -1,0 +1,16 @@
+{
+  "priceVarianceMin": 0.9,
+  "priceVarianceMax": 1.15,
+  "refreshIntervalMs": 1800000,
+  "lastRefresh": 1792188931816,
+  "multipliers": {
+    "crop_lua": 1.081,
+    "crop_ca_chua": 0.956,
+    "crop_carot": 1.061,
+    "crop_dua_hau": 1.105,
+    "crop_nho": 0.956,
+    "crop_dao": 0.944,
+    "crop_dua_vang": 0.969,
+    "crop_linh_chi": 1.055
+  }
+}

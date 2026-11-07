@@ -1,0 +1,134 @@
+{
+  "initialRealmId": "luyen_khi",
+  "initialStage": 1,
+  "practiceExp": 500,
+  "practiceCooldownMinutes": 10,
+  "tribulationSuccessRate": 0.8,
+  "leaderboardPageSize": 10,
+  "maxLeaderboardEntries": 50,
+  "realms": [
+    {
+      "id": "luyen_khi",
+      "name": "Luyện Khí",
+      "description": "Bước đầu cảm nhận và tích lũy linh khí.",
+      "order": 1,
+      "domain": "PHAM",
+      "hasStages": true,
+      "maxStage": 9,
+      "stageExp": [100, 150, 200, 250, 300, 350, 400, 450, 500]
+    },
+    {
+      "id": "tru_co",
+      "name": "Trúc Cơ",
+      "description": "Xây dựng nền móng tu tiên.",
+      "order": 2,
+      "domain": "PHAM",
+      "breakthroughExp": 1000
+    },
+    {
+      "id": "kim_dan",
+      "name": "Kim Đan",
+      "description": "Ngưng tụ Kim Đan, bước vào con đường trường sinh.",
+      "order": 3,
+      "domain": "PHAM",
+      "breakthroughExp": 1800
+    },
+    {
+      "id": "nguyen_anh",
+      "name": "Nguyên Anh",
+      "description": "Ngưng luyện Nguyên Anh.",
+      "order": 4,
+      "domain": "PHAM",
+      "breakthroughExp": 2800
+    },
+    {
+      "id": "hoa_than",
+      "name": "Hóa Thần",
+      "description": "Thần thức đại thành.",
+      "order": 5,
+      "domain": "PHAM",
+      "breakthroughExp": 4000
+    },
+    {
+      "id": "luyen_hu",
+      "name": "Luyện Hư",
+      "description": "Lĩnh ngộ hư không.",
+      "order": 6,
+      "domain": "PHAM",
+      "breakthroughExp": 5500
+    },
+    {
+      "id": "hop_the",
+      "name": "Hợp Thể",
+      "description": "Thân và thần hợp nhất.",
+      "order": 7,
+      "domain": "PHAM",
+      "breakthroughExp": 7500
+    },
+    {
+      "id": "dai_thua",
+      "name": "Đại Thừa",
+      "description": "Tu vi viên mãn, chuẩn bị độ kiếp.",
+      "order": 8,
+      "domain": "PHAM",
+      "breakthroughExp": 10000
+    },
+    {
+      "id": "do_kiep",
+      "name": "Độ Kiếp",
+      "description": "Vượt qua thiên kiếp để phi thăng.",
+      "order": 9,
+      "domain": "PHAM",
+      "isTribulation": true,
+      "breakthroughExp": 12000
+    },
+    {
+      "id": "nhan_tien",
+      "name": "Nhân Tiên",
+      "description": "Bước chân vào Tiên Giới.",
+      "order": 10,
+      "domain": "TIEN",
+      "breakthroughExp": 15000
+    },
+    {
+      "id": "dia_tien",
+      "name": "Địa Tiên",
+      "description": "Củng cố tiên căn.",
+      "order": 11,
+      "domain": "TIEN",
+      "breakthroughExp": 18000
+    },
+    {
+      "id": "thien_tien",
+      "name": "Thiên Tiên",
+      "description": "Lĩnh ngộ tiên đạo.",
+      "order": 12,
+      "domain": "TIEN",
+      "breakthroughExp": 22000
+    },
+    {
+      "id": "kim_tien",
+      "name": "Kim Tiên",
+      "description": "Tiên lực ngưng luyện.",
+      "order": 13,
+      "domain": "TIEN",
+      "breakthroughExp": 27000
+    },
+    {
+      "id": "dai_la_kim_tien",
+      "name": "Đại La Kim Tiên",
+      "description": "Đại đạo trường tồn.",
+      "order": 14,
+      "domain": "TIEN",
+      "breakthroughExp": 33000
+    },
+    {
+      "id": "tien_de",
+      "name": "Tiên Đế",
+      "description": "Đỉnh cao của con đường tu tiên.",
+      "order": 15,
+      "domain": "TIEN",
+      "isMax": true
+    }
+  ]
+}

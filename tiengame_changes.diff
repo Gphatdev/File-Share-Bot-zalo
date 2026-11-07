@@ -1,0 +1,260 @@
+--- orig_chatbot/Core/Commands/napthe.js	2026-10-06 06:52:35.320209299 +0000
++++ src/hnnp-basic/chatbot-zalo-basic/Core/Commands/napthe.js	2026-10-06 06:52:54.469713754 +0000
+@@ -8,6 +8,7 @@
+   saveBufferToTempImage,
+ } from "./data/TienGame/canvas.js";
+ import { config as botConfig } from "../../App/Config.js";
++import { MAX_ADMIN_CREDIT } from "./data/TienGame/moneyFormatter.js";
+ 
+ const TZ = "Asia/Ho_Chi_Minh";
+ 
+@@ -179,7 +180,7 @@
+     }
+ 
+     const amountArg = args[args.length - 1];
+-    const parsed = parseAmount(amountArg, Number(config.maximumAdminCredit || 1000000000));
++    const parsed = parseAmount(amountArg, Math.min(Number(config.maximumAdminCredit || MAX_ADMIN_CREDIT), MAX_ADMIN_CREDIT));
+     if (parsed.error) return send(parsed.error);
+ 
+     const target = resolveTarget(message);
+@@ -188,14 +189,18 @@
+     }
+ 
+     // Từ đây giao dịch đã được ghi nếu không có lỗi; không bao giờ thử cộng lại.
++    // msgId của tin nhắn lệnh làm khóa chống xử lý lặp (cùng lệnh không được cộng hai lần).
++    const referenceId = String(message.data?.msgId || "").trim() || null;
+     let updated;
+     try {
+       updated = await TienGame.addMoney(target.uid, parsed.value, {
+         type: "ADMIN_CREDIT",
+         description: `Admin ${senderId} cộng tiền`,
+         adminId: senderId,
++        referenceId,
+       });
+     } catch (err) {
++      if (err.code === "DUPLICATE_REFERENCE") return send("Lệnh này đã được xử lý trước đó, không cộng lại.");
+       return send(`Không thể cộng tiền: ${err.message}`);
+     }
+ 
+--- orig_chatbot/Core/Commands/data/TienGame/canvas.js	2026-10-06 06:52:35.317988798 +0000
++++ src/hnnp-basic/chatbot-zalo-basic/Core/Commands/data/TienGame/canvas.js	2026-10-06 06:52:49.372995230 +0000
+@@ -2,6 +2,7 @@
+ import path from "node:path";
+ import { fileURLToPath } from "node:url";
+ import { createCanvas, registerFont } from "canvas";
++import { drawMoney, formatFull, pickDisplay } from "./moneyFormatter.js";
+ 
+ const __dirname = path.dirname(fileURLToPath(import.meta.url));
+ const fontDir = path.join(__dirname, "..", "fonts");
+@@ -39,11 +40,6 @@
+   ctx.closePath();
+ }
+ 
+-function formatMoney(value) {
+-  const amount = Number(value || 0);
+-  return `${amount.toLocaleString("vi-VN")}`;
+-}
+-
+ function truncateText(ctx, text, maxWidth) {
+   let result = String(text || "");
+   if (ctx.measureText(result).width <= maxWidth) return result;
+@@ -165,21 +161,21 @@
+ 
+   ctx.fillStyle = "#ffffff";
+   ctx.font = "bold 54px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(balance)} GOLD`, 90, 490);
++  drawMoney(ctx, balance, 90, 490, 540, { minSize: 30 });
+ 
+   ctx.fillStyle = "#8fe7b3";
+   ctx.font = "bold 24px 'CustomSans', sans-serif";
+   ctx.fillText("TIẾT KIỆM", 690, 420);
+   ctx.fillStyle = "#ffffff";
+   ctx.font = "bold 38px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(savings)} GOLD`, 690, 490);
++  drawMoney(ctx, savings, 690, 490, 190, { minSize: 22 });
+ 
+   ctx.fillStyle = "#7ad9ff";
+   ctx.font = "bold 24px 'CustomSans', sans-serif";
+   ctx.fillText("TỔNG TÀI SẢN", 900, 420);
+   ctx.fillStyle = "#ffffff";
+   ctx.font = "bold 36px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(totalAssets)} GOLD`, 900, 490);
++  drawMoney(ctx, totalAssets, 900, 490, 200, { minSize: 22 });
+ 
+   roundRect(ctx, 72, 548, 260, 74, 18);
+   ctx.fillStyle = "rgba(39, 156, 107, 0.28)";
+@@ -192,7 +188,7 @@
+   ctx.fillStyle = "rgba(96, 131, 255, 0.25)";
+   ctx.fill();
+   ctx.fillStyle = "#8ecbff";
+-  ctx.fillText(`LÃI ĐÃ TÍCH LŨY: ${formatMoney(data.interestAccrued || 0)}`, 374, 592);
++  ctx.fillText(`LÃI ĐÃ TÍCH LŨY: ${pickDisplay(data.interestAccrued || 0, (t) => ctx.measureText(`LÃI ĐÃ TÍCH LŨY: ${t}`).width <= 360)}`, 374, 592);
+ 
+   roundRect(ctx, 760, 548, 330, 74, 18);
+   ctx.fillStyle = "rgba(255, 196, 72, 0.22)";
+@@ -215,7 +211,7 @@
+ 
+   ctx.fillStyle = "#ffc857";
+   ctx.font = "bold 60px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(amount)} GOLD`, 110, 330);
++  drawMoney(ctx, amount, 110, 330, 960, { minSize: 30 });
+ 
+   ctx.fillStyle = "#bfe7ff";
+   ctx.font = "20px 'CustomSans', sans-serif";
+@@ -229,7 +225,7 @@
+   ctx.fillText("SỐ DƯ SAU GIAO DỊCH", 145, 490);
+   ctx.fillStyle = "#ffffff";
+   ctx.font = "bold 38px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(balanceAfter)} GOLD`, 145, 540);
++  drawMoney(ctx, balanceAfter, 145, 540, 400, { minSize: 22 });
+ 
+   roundRect(ctx, 610, 440, 470, 140, 22);
+   ctx.fillStyle = "rgba(30, 110, 76, 0.72)";
+@@ -239,7 +235,7 @@
+   ctx.fillText("TIẾT KIỆM HIỆN TẠI", 640, 490);
+   ctx.fillStyle = "#ffffff";
+   ctx.font = "bold 38px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(savingsAfter)} GOLD`, 640, 540);
++  drawMoney(ctx, savingsAfter, 640, 540, 400, { minSize: 22 });
+ 
+   return canvas.toBuffer("image/png");
+ }
+@@ -264,7 +260,7 @@
+ 
+   ctx.fillStyle = "#ffffff";
+   ctx.font = "bold 60px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(amount)} GOLD`, 110, 488);
++  drawMoney(ctx, amount, 110, 488, 560, { minSize: 30 });
+ 
+   roundRect(ctx, 700, 205, 390, 220, 22);
+   ctx.fillStyle = "rgba(27, 123, 102, 0.7)";
+@@ -274,7 +270,7 @@
+   ctx.fillText("SỐ DƯ MỚI", 760, 280);
+   ctx.fillStyle = "#ffffff";
+   ctx.font = "bold 42px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(newBalance)} GOLD`, 760, 360);
++  drawMoney(ctx, newBalance, 760, 360, 300, { minSize: 22 });
+ 
+   return canvas.toBuffer("image/png");
+ }
+@@ -295,7 +291,7 @@
+ 
+   ctx.fillStyle = "#ffc857";
+   ctx.font = "bold 60px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(total)} GOLD`, 120, 335);
++  drawMoney(ctx, total, 120, 335, 980, { minSize: 30 });
+ 
+   roundRect(ctx, 90, 440, 300, 120, 20);
+   ctx.fillStyle = "rgba(64, 104, 130, 0.9)";
+@@ -304,7 +300,7 @@
+   ctx.font = "20px 'CustomSans', sans-serif";
+   ctx.fillText("VỐN GỐC", 120, 490);
+   ctx.font = "bold 32px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(principal)} GOLD`, 120, 530);
++  drawMoney(ctx, principal, 120, 530, 260, { minSize: 18 });
+ 
+   roundRect(ctx, 430, 440, 300, 120, 20);
+   ctx.fillStyle = "rgba(60, 123, 88, 0.9)";
+@@ -313,7 +309,7 @@
+   ctx.font = "20px 'CustomSans', sans-serif";
+   ctx.fillText("LÃI TÍCH LŨY", 460, 490);
+   ctx.font = "bold 32px 'CustomSans', sans-serif";
+-  ctx.fillText(`${formatMoney(interestAccrued)} GOLD`, 460, 530);
++  drawMoney(ctx, interestAccrued, 460, 530, 250, { minSize: 18 });
+ 
+   roundRect(ctx, 770, 440, 300, 120, 20);
+   ctx.fillStyle = "rgba(143, 94, 22, 0.8)";
+@@ -359,7 +355,7 @@
+     ctx.textAlign = "right";
+     ctx.fillStyle = Number(item.amount || 0) >= 0 ? "#8fe7b3" : "#ff9ea4";
+     ctx.font = "bold 22px 'CustomSans', sans-serif";
+-    ctx.fillText(`${Number(item.amount || 0) >= 0 ? "+" : "-"}${formatMoney(Math.abs(item.amount || 0))} GOLD`, 1080, y + 28);
++    drawMoney(ctx, Math.abs(Number(item.amount || 0)), 1080, y + 28, 360, { prefix: Number(item.amount || 0) >= 0 ? "+" : "-", minSize: 16 });
+     ctx.textAlign = "left";
+   }
+ 
+--- orig_chatbot/Core/Commands/data/TienGame/index.js	2026-10-06 06:52:35.318020457 +0000
++++ src/hnnp-basic/chatbot-zalo-basic/Core/Commands/data/TienGame/index.js	2026-10-06 06:52:49.373803854 +0000
+@@ -108,11 +108,12 @@
+   return entry;
+ }
+ 
+-async function recordTransaction({ userId, type, amount, description, adminId, beforeBalance, afterBalance, beforeSavings, afterSavings, status = "success" }) {
++async function recordTransaction({ userId, type, amount, description, adminId, beforeBalance, afterBalance, beforeSavings, afterSavings, referenceId = null, status = "success" }) {
+   const entry = {
+     id: `TX-${Date.now()}-${randomUUID().slice(0, 8)}`,
+     userId: formatUserKey(userId),
+     type,
++    referenceId: referenceId ? String(referenceId) : null,
+     amount: Number(amount || 0),
+     description: description || "",
+     adminId: adminId ? String(adminId) : null,
+@@ -174,7 +175,16 @@
+     throw new Error("Số tiền cộng không hợp lệ.");
+   }
+ 
++  const referenceId = options.referenceId ? String(options.referenceId) : null;
++
+   return withUserLock(key, async () => {
++    // Chống cộng tiền hai lần khi cùng một tin nhắn lệnh được xử lý lại.
++    if (referenceId && getTransactions().some((item) => item.referenceId === referenceId)) {
++      const error = new Error("Giao dịch này đã được xử lý.");
++      error.code = "DUPLICATE_REFERENCE";
++      throw error;
++    }
++
+     const users = getUsers();
+     const savings = getSavingsStore();
+     const config = getConfig();
+@@ -187,6 +197,9 @@
+     const beforeBalance = Number(user.balance || 0);
+     const beforeSavings = Number(normalizeSavingsRecord(key, savings[key] || {}).principal || 0) + Number(normalizeSavingsRecord(key, savings[key] || {}).interestAccrued || 0);
+     const afterBalance = beforeBalance + numericAmount;
++    if (!Number.isSafeInteger(afterBalance)) {
++      throw new Error("Số dư sau giao dịch vượt giới hạn hệ thống, không thể cộng.");
++    }
+ 
+     user.balance = afterBalance;
+     user.updatedAt = getNow();
+@@ -203,6 +216,7 @@
+       afterBalance,
+       beforeSavings,
+       afterSavings: beforeSavings,
++      referenceId,
+       status: "success",
+     };
+ 
+--- orig_chatbot/Core/Commands/data/TienGame/storage.js	2026-10-06 06:52:35.318059999 +0000
++++ src/hnnp-basic/chatbot-zalo-basic/Core/Commands/data/TienGame/storage.js	2026-10-06 06:52:54.470462742 +0000
+@@ -16,7 +16,7 @@
+   interestPeriodHours: 24,
+   minimumDeposit: 1,
+   maximumDeposit: 1000000000,
+-  maximumAdminCredit: 1000000000,
++  maximumAdminCredit: 1000000000000,
+   currency: "GOLD",
+   transactionLimit: 200,
+ };
+--- orig_chatbot/Core/Commands/data/TienGame/config.json	2026-10-06 06:52:35.318006581 +0000
++++ src/hnnp-basic/chatbot-zalo-basic/Core/Commands/data/TienGame/config.json	2026-10-06 06:52:49.379894756 +0000
+@@ -1,10 +1,10 @@
+-{
+-  "enabled": true,
+-  "dailyInterestRate": 0.1,
+-  "interestPeriodHours": 24,
+-  "minimumDeposit": 1,
+-  "maximumDeposit": 1000000000,
+-  "maximumAdminCredit": 1000000000,
+-  "currency": "GOLD",
+-  "transactionLimit": 200
+-}
++{
++  "enabled": true,
++  "dailyInterestRate": 0.1,
++  "interestPeriodHours": 24,
++  "minimumDeposit": 1,
++  "maximumDeposit": 1000000000,
++  "maximumAdminCredit": 1000000000000,
++  "currency": "GOLD",
++  "transactionLimit": 200
++}

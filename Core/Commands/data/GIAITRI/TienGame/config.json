@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "dailyInterestRate": 0.1,
+  "interestPeriodHours": 24,
+  "minimumDeposit": 1,
+  "maximumDeposit": 1000000000,
+  "maximumAdminCredit": 1000000000000,
+  "currency": "GOLD",
+  "transactionLimit": 200
+}

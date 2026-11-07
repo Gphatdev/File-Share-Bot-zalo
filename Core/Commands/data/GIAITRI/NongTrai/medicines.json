@@ -1,0 +1,95 @@
+[
+  {
+    "id": "med_growth_small",
+    "name": "Thuốc Tăng Trưởng Nhỏ",
+    "description": "Rút ngắn 20% thời gian sinh trưởng của 1 cây.",
+    "type": "growth",
+    "effect": {
+      "reducePercent": 0.2,
+      "target": "single"
+    },
+    "price": 2000,
+    "rarity": "common",
+    "unlockLevel": 1,
+    "icon": "🧪",
+    "color": "#2ECC71"
+  },
+  {
+    "id": "med_growth_large",
+    "name": "Thuốc Tăng Trưởng Lớn",
+    "description": "Rút ngắn 40% thời gian sinh trưởng của 1 cây.",
+    "type": "growth",
+    "effect": {
+      "reducePercent": 0.4,
+      "target": "single"
+    },
+    "price": 6000,
+    "rarity": "uncommon",
+    "unlockLevel": 5,
+    "icon": "⚗️",
+    "color": "#27AE60"
+  },
+  {
+    "id": "med_growth_field",
+    "name": "Thuốc Tăng Trưởng Toàn Vườn",
+    "description": "Rút ngắn 15% thời gian sinh trưởng toàn bộ cây đang trồng.",
+    "type": "growth",
+    "effect": {
+      "reducePercent": 0.15,
+      "target": "all"
+    },
+    "price": 15000,
+    "rarity": "rare",
+    "unlockLevel": 10,
+    "icon": "🌿",
+    "color": "#1ABC9C"
+  },
+  {
+    "id": "med_x2_money",
+    "name": "Thuốc x2 Tiền",
+    "description": "Tăng gấp đôi giá bán nông sản thu hoạch từ 1 cây (không cộng dồn).",
+    "type": "x2money",
+    "effect": {
+      "multiplier": 2,
+      "target": "single",
+      "durationHarvests": 1
+    },
+    "price": 8000,
+    "rarity": "uncommon",
+    "unlockLevel": 3,
+    "icon": "💰",
+    "color": "#F1C40F"
+  },
+  {
+    "id": "med_rare_boost",
+    "name": "Thuốc Hiếm Hóa",
+    "description": "Tăng 1 bậc độ hiếm nông sản khi thu hoạch (tối đa epic).",
+    "type": "special",
+    "effect": {
+      "rarityUp": 1,
+      "target": "single",
+      "maxRarity": "epic"
+    },
+    "price": 12000,
+    "rarity": "rare",
+    "unlockLevel": 8,
+    "icon": "✨",
+    "color": "#9B59B6"
+  },
+  {
+    "id": "med_golden",
+    "name": "Thuốc Vàng Kim",
+    "description": "Nông sản thu hoạch có hiệu ứng vàng kim, +50% giá bán.",
+    "type": "special",
+    "effect": {
+      "priceBonus": 0.5,
+      "visual": "golden",
+      "target": "single"
+    },
+    "price": 20000,
+    "rarity": "epic",
+    "unlockLevel": 15,
+    "icon": "🌟",
+    "color": "#F39C12"
+  }
+]

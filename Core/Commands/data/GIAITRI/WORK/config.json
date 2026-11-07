@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "timezone": "Asia/Ho_Chi_Minh",
+  "shift": {
+    "maxPerDay": 1,
+    "tasksByDifficulty": {
+      "1": 3,
+      "2": 3,
+      "3": 4,
+      "4": 5,
+      "5": 5
+    },
+    "expireHours": 12,
+    "minAnswerGapMs": 1200,
+    "maxWrongPerStep": 2,
+    "maxWrongPerShift": 8,
+    "accuracyFloor": 0.6,
+    "perfectBonusPct": 0.1,
+    "perfectAccuracy": 0.95
+  },
+  "wage": {
+    "dailyIncomeCap": 120000,
+    "maxSinglePayout": 120000,
+    "minPayout": 1
+  },
+  "ranks": [
+    {
+      "id": "thuc_tap",
+      "name": "Thực tập sinh",
+      "wageMultiplier": 1.0,
+      "minJobExp": 0,
+      "minDays": 0,
+      "color": "#9aa4b2",
+      "unlock": "Làm quen công việc"
+    },
+    {
+      "id": "nhan_vien",
+      "name": "Nhân viên",
+      "wageMultiplier": 1.15,
+      "minJobExp": 40,
+      "minDays": 2,
+      "color": "#6bd68a",
+      "unlock": "Nhận lương đầy đủ"
+    },
+    {
+      "id": "chinh_thuc",
+      "name": "Nhân viên chính thức",
+      "wageMultiplier": 1.35,
+      "minJobExp": 120,
+      "minDays": 5,
+      "color": "#4da3ff",
+      "unlock": "Thưởng chuyên cần"
+    },
+    {
+      "id": "to_truong",
+      "name": "Tổ trưởng",
+      "wageMultiplier": 1.6,
+      "minJobExp": 280,
+      "minDays": 10,
+      "color": "#2ed3b7",
+      "unlock": "Dẫn dắt tổ nhỏ"
+    },
+    {
+      "id": "truong_nhom",
+      "name": "Trưởng nhóm",
+      "wageMultiplier": 1.9,
+      "minJobExp": 560,
+      "minDays": 18,
+      "color": "#ffd166",
+      "unlock": "Dẫn dắt nhóm"
+    },
+    {
+      "id": "truong_phong",
+      "name": "Trưởng phòng",
+      "wageMultiplier": 2.3,
+      "minJobExp": 1000,
+      "minDays": 28,
+      "color": "#ff9f43",
+      "unlock": "Quản lý phòng ban"
+    },
+    {
+      "id": "quan_ly_cap_cao",
+      "name": "Quản lý cấp cao",
+      "wageMultiplier": 2.8,
+      "minJobExp": 1700,
+      "minDays": 42,
+      "color": "#ff5fb0",
+      "unlock": "Quyền ra quyết định"
+    },
+    {
+      "id": "giam_doc",
+      "name": "Giám đốc",
+      "wageMultiplier": 3.5,
+      "minJobExp": 2800,
+      "minDays": 60,
+      "color": "#b78cff",
+      "unlock": "Đỉnh cao sự nghiệp"
+    }
+  ],
+  "attendance": {
+    "baseReward": 1500,
+    "streakStep": 300,
+    "streakMaxSteps": 10,
+    "exp": 5,
+    "jobExp": 5,
+    "requireJob": true
+  },
+  "cooldowns": {
+    "commandMs": 1200,
+    "applyConfirmTtlMs": 120000
+  },
+  "history": {
+    "cap": 100,
+    "pageSize": 6
+  },
+  "jobList": {
+    "pageSize": 5
+  },
+  "top": {
+    "size": 10
+  },
+  "session": {
+    "answerTtlMs": 3600000
+  },
+  "achievements": {
+    "first_shift": {
+      "name": "Ca làm đầu tiên",
+      "shifts": 1
+    },
+    "shifts_10": {
+      "name": "Chăm chỉ (10 ca)",
+      "shifts": 10
+    },
+    "shifts_50": {
+      "name": "Cống hiến (50 ca)",
+      "shifts": 50
+    },
+    "rank_3": {
+      "name": "Nhân viên chính thức",
+      "rank": 3
+    },
+    "rank_5": {
+      "name": "Trưởng nhóm",
+      "rank": 5
+    },
+    "rank_8": {
+      "name": "Giám đốc",
+      "rank": 8
+    },
+    "earn_100k": {
+      "name": "Tổng thu nhập 100.000",
+      "income": 100000
+    },
+    "earn_1m": {
+      "name": "Tổng thu nhập 1.000.000",
+      "income": 1000000
+    },
+    "perfect": {
+      "name": "Ca hoàn hảo",
+      "perfect": 1
+    }
+  }
+}

@@ -1,0 +1,4904 @@
+{
+  "version": 1,
+  "kinds": [
+    "code",
+    "math",
+    "quiz",
+    "sequence",
+    "evensum"
+  ],
+  "quizBanks": {
+    "laodong": [
+      {
+        "q": "Trước khi vận hành máy móc, việc đầu tiên cần làm là gì?",
+        "a": "Kiểm tra an toàn thiết bị",
+        "w": [
+          "Bật máy chạy thử ngay",
+          "Tháo bộ phận bảo vệ",
+          "Nhờ người khác vận hành"
+        ]
+      },
+      {
+        "q": "Khi làm việc trên cao cần trang bị gì?",
+        "a": "Dây đai an toàn và mũ bảo hộ",
+        "w": [
+          "Dép lê và áo thun",
+          "Tai nghe nghe nhạc",
+          "Găng tay len"
+        ]
+      },
+      {
+        "q": "Hàng nặng nên được nâng như thế nào?",
+        "a": "Gập gối, giữ lưng thẳng",
+        "w": [
+          "Cúi lưng nhấc nhanh",
+          "Giật mạnh một tay",
+          "Vừa chạy vừa nhấc"
+        ]
+      },
+      {
+        "q": "Khi thấy sàn nhà ướt nên làm gì?",
+        "a": "Đặt biển cảnh báo trơn trượt",
+        "w": [
+          "Bỏ qua",
+          "Đổ thêm nước",
+          "Chạy qua thật nhanh"
+        ]
+      },
+      {
+        "q": "Màu nào thường dùng cho biển cảnh báo nguy hiểm?",
+        "a": "Vàng hoặc đỏ",
+        "w": [
+          "Xanh lá nhạt",
+          "Trắng",
+          "Hồng"
+        ]
+      },
+      {
+        "q": "Hóa chất lạ không có nhãn nên xử lý ra sao?",
+        "a": "Không dùng, báo quản lý",
+        "w": [
+          "Ngửi thử",
+          "Trộn với chất khác",
+          "Đổ xuống cống"
+        ]
+      },
+      {
+        "q": "Giờ nghỉ giữa ca nhằm mục đích gì?",
+        "a": "Phục hồi sức khỏe, tránh tai nạn",
+        "w": [
+          "Để trốn việc",
+          "Để tăng sản lượng",
+          "Không có mục đích"
+        ]
+      },
+      {
+        "q": "Thùng hàng dễ vỡ nên được xếp như thế nào?",
+        "a": "Nhẹ nhàng, xếp ở trên cùng",
+        "w": [
+          "Đè dưới cùng",
+          "Ném vào xe",
+          "Buộc dây thật chặt"
+        ]
+      },
+      {
+        "q": "Khi có cháy nhỏ ở kho, hành động đúng là gì?",
+        "a": "Báo động và dùng bình chữa cháy phù hợp",
+        "w": [
+          "Đổ nước vào mọi đám cháy",
+          "Bỏ chạy không báo ai",
+          "Đóng cửa rồi đi"
+        ]
+      },
+      {
+        "q": "Mũ bảo hộ giúp bảo vệ bộ phận nào?",
+        "a": "Đầu",
+        "w": [
+          "Bàn chân",
+          "Tai",
+          "Ngón tay"
+        ]
+      },
+      {
+        "q": "Đi giao hàng, đơn nào nên giao trước?",
+        "a": "Đơn có hạn giao gấp",
+        "w": [
+          "Đơn xa nhất bất kể hạn",
+          "Đơn ngẫu nhiên",
+          "Đơn nhẹ nhất"
+        ]
+      },
+      {
+        "q": "Làm việc ngoài nắng gắt cần chú ý gì?",
+        "a": "Uống đủ nước, nghỉ ở bóng râm",
+        "w": [
+          "Nhịn uống nước",
+          "Làm liên tục không nghỉ",
+          "Mặc áo thật dày"
+        ]
+      },
+      {
+        "q": "Quy trình 5S bắt đầu bằng bước nào?",
+        "a": "Sàng lọc",
+        "w": [
+          "Sẵn sàng",
+          "Săn sóc",
+          "Sạch sẽ"
+        ]
+      },
+      {
+        "q": "Khi bàn giao ca nên làm gì?",
+        "a": "Ghi chép và báo lại tình trạng công việc",
+        "w": [
+          "Rời đi không nói gì",
+          "Xóa mọi ghi chép",
+          "Khóa cửa rồi bỏ chìa khóa"
+        ]
+      }
+    ],
+    "dichvu": [
+      {
+        "q": "Khách phàn nàn, cách xử lý tốt nhất là gì?",
+        "a": "Lắng nghe, xin lỗi và đưa giải pháp",
+        "w": [
+          "Cãi lại khách",
+          "Phớt lờ",
+          "Chuyển hết cho đồng nghiệp"
+        ]
+      },
+      {
+        "q": "Khách đưa 200.000đ cho đơn 137.000đ, cần trả lại bao nhiêu?",
+        "a": "63.000đ",
+        "w": [
+          "73.000đ",
+          "67.000đ",
+          "53.000đ"
+        ]
+      },
+      {
+        "q": "CSKH viết tắt của cụm từ nào?",
+        "a": "Chăm sóc khách hàng",
+        "w": [
+          "Cung ứng kho hàng",
+          "Chi số kinh hoạt",
+          "Kiểm soát khách hàng"
+        ]
+      },
+      {
+        "q": "Mục tiêu của chương trình khuyến mãi là gì?",
+        "a": "Thu hút khách mua hàng",
+        "w": [
+          "Giảm số lượng khách",
+          "Làm khách khó mua",
+          "Tăng chi phí cố định"
+        ]
+      },
+      {
+        "q": "Nguyên tắc FIFO với hàng thực phẩm nghĩa là gì?",
+        "a": "Hàng nhập trước bán trước",
+        "w": [
+          "Hàng nhập sau bán trước",
+          "Hàng đắt bán trước",
+          "Hàng nhỏ bán trước"
+        ]
+      },
+      {
+        "q": "Chế biến an toàn thực phẩm cần điều gì?",
+        "a": "Rửa tay sạch, tách đồ sống và đồ chín",
+        "w": [
+          "Dùng chung thớt cho mọi món",
+          "Để thức ăn ngoài trời lâu",
+          "Bỏ qua hạn sử dụng"
+        ]
+      },
+      {
+        "q": "ROI trong marketing đo lường điều gì?",
+        "a": "Tỷ suất lợi nhuận trên chi phí đầu tư",
+        "w": [
+          "Số lượng nhân viên",
+          "Diện tích cửa hàng",
+          "Tốc độ mạng"
+        ]
+      },
+      {
+        "q": "Khi đặt phòng khách sạn, cần xác nhận thông tin nào?",
+        "a": "Ngày nhận, trả phòng và số khách",
+        "w": [
+          "Chỉ màu rèm",
+          "Cân nặng của khách",
+          "Không cần xác nhận gì"
+        ]
+      },
+      {
+        "q": "Nhân viên bất động sản cần kiểm tra gì trước khi giao dịch?",
+        "a": "Giấy tờ pháp lý của căn nhà",
+        "w": [
+          "Màu sơn tường",
+          "Tên chó nhà bên",
+          "Giá xăng hôm nay"
+        ]
+      },
+      {
+        "q": "Cà phê espresso được pha như thế nào?",
+        "a": "Nước nóng áp suất cao đi qua cà phê xay mịn",
+        "w": [
+          "Ngâm lạnh 12 giờ",
+          "Đun sôi bột cà phê trong nồi",
+          "Hòa tan trong nước lạnh"
+        ]
+      },
+      {
+        "q": "Thành phần nào giúp bánh mì nở?",
+        "a": "Men nở",
+        "w": [
+          "Muối",
+          "Đường kính",
+          "Nước lọc"
+        ]
+      },
+      {
+        "q": "Hàng tồn kho quá nhiều, quản lý nên làm gì?",
+        "a": "Phân tích và đẩy mạnh khuyến mãi",
+        "w": [
+          "Nhập thêm cùng loại",
+          "Đóng cửa hàng",
+          "Giấu hàng đi"
+        ]
+      },
+      {
+        "q": "Giá vốn 70.000đ, giá bán 100.000đ. Lãi gộp bằng bao nhiêu % giá bán?",
+        "a": "30%",
+        "w": [
+          "70%",
+          "43%",
+          "10%"
+        ]
+      },
+      {
+        "q": "Trả lời tin nhắn của khách nên như thế nào?",
+        "a": "Nhanh chóng, lịch sự, rõ ràng",
+        "w": [
+          "Để vài ngày sau",
+          "Trả lời cộc lốc",
+          "Chỉ gửi biểu tượng"
+        ]
+      }
+    ],
+    "congnghe": [
+      {
+        "q": "HTML dùng để làm gì?",
+        "a": "Xây dựng cấu trúc trang web",
+        "w": [
+          "Quản lý cơ sở dữ liệu",
+          "Biên dịch C++",
+          "Chỉnh sửa video"
+        ]
+      },
+      {
+        "q": "CSS dùng để làm gì?",
+        "a": "Định dạng giao diện trang web",
+        "w": [
+          "Lưu trữ dữ liệu",
+          "Mã hóa mật khẩu",
+          "Gửi email"
+        ]
+      },
+      {
+        "q": "Độ phức tạp của tìm kiếm nhị phân trên mảng đã sắp xếp là?",
+        "a": "O(log n)",
+        "w": [
+          "O(n)",
+          "O(n²)",
+          "O(1)"
+        ]
+      },
+      {
+        "q": "SQL dùng để làm gì?",
+        "a": "Truy vấn và quản lý cơ sở dữ liệu",
+        "w": [
+          "Thiết kế logo",
+          "Chỉnh âm thanh",
+          "Điều khiển máy in"
+        ]
+      },
+      {
+        "q": "Phishing là hình thức tấn công nào?",
+        "a": "Lừa người dùng để lấy thông tin",
+        "w": [
+          "Làm nóng CPU",
+          "Phá hỏng ổ cứng vật lý",
+          "Tăng tốc mạng"
+        ]
+      },
+      {
+        "q": "Mật khẩu mạnh nên có đặc điểm nào?",
+        "a": "Dài, kết hợp chữ hoa, chữ thường, số, ký tự",
+        "w": [
+          "Chỉ gồm ngày sinh",
+          "Là dãy 123456",
+          "Trùng với tên người dùng"
+        ]
+      },
+      {
+        "q": "Git dùng để làm gì?",
+        "a": "Quản lý phiên bản mã nguồn",
+        "w": [
+          "Chỉnh sửa ảnh",
+          "Gọi điện",
+          "Nén video"
+        ]
+      },
+      {
+        "q": "Mã trạng thái HTTP 404 nghĩa là gì?",
+        "a": "Không tìm thấy tài nguyên",
+        "w": [
+          "Yêu cầu thành công",
+          "Lỗi nội bộ máy chủ",
+          "Chuyển hướng vĩnh viễn"
+        ]
+      },
+      {
+        "q": "Machine Learning là gì?",
+        "a": "Máy học từ dữ liệu để đưa ra dự đoán",
+        "w": [
+          "Máy tự sửa phần cứng",
+          "Lập trình tay mọi quy tắc",
+          "Một loại cáp mạng"
+        ]
+      },
+      {
+        "q": "RAM dùng để làm gì?",
+        "a": "Lưu tạm dữ liệu đang xử lý",
+        "w": [
+          "Lưu dữ liệu vĩnh viễn",
+          "Làm mát máy",
+          "Tăng điện áp"
+        ]
+      },
+      {
+        "q": "Khóa chính (primary key) trong CSDL dùng để làm gì?",
+        "a": "Định danh duy nhất mỗi bản ghi",
+        "w": [
+          "Mã hóa bảng",
+          "Xóa bảng",
+          "Sao lưu tự động"
+        ]
+      },
+      {
+        "q": "Sao lưu định kỳ nhằm mục đích gì?",
+        "a": "Khôi phục dữ liệu khi có sự cố",
+        "w": [
+          "Làm máy chạy chậm",
+          "Tăng dung lượng ổ",
+          "Tắt tường lửa"
+        ]
+      },
+      {
+        "q": "Tường lửa (firewall) có vai trò gì?",
+        "a": "Lọc và kiểm soát lưu lượng mạng",
+        "w": [
+          "Làm mát CPU",
+          "Tăng độ sáng màn hình",
+          "Nén tập tin"
+        ]
+      },
+      {
+        "q": "Trong thiết kế, UX nói về điều gì?",
+        "a": "Trải nghiệm người dùng",
+        "w": [
+          "Mã hóa dữ liệu",
+          "Tốc độ GPU",
+          "Loại phông chữ"
+        ]
+      }
+    ],
+    "sangtao": [
+      {
+        "q": "Quy tắc một phần ba trong nhiếp ảnh dùng để làm gì?",
+        "a": "Bố cục khung hình cân đối",
+        "w": [
+          "Chỉnh màu da",
+          "Tăng ISO",
+          "Giảm kích thước tệp"
+        ]
+      },
+      {
+        "q": "Ba màu cơ bản của ánh sáng (RGB) là gì?",
+        "a": "Đỏ, lục, lam",
+        "w": [
+          "Vàng, tím, cam",
+          "Đen, trắng, xám",
+          "Hồng, nâu, xanh ngọc"
+        ]
+      },
+      {
+        "q": "Khẩu độ lớn (số f nhỏ) tạo ra hiệu ứng gì?",
+        "a": "Xóa phông, nền mờ",
+        "w": [
+          "Ảnh tối hơn",
+          "Ảnh nhiều nhiễu",
+          "Ảnh đen trắng"
+        ]
+      },
+      {
+        "q": "Tỷ lệ khung hình video ngang phổ biến là gì?",
+        "a": "16:9",
+        "w": [
+          "9:16",
+          "1:5",
+          "7:3"
+        ]
+      },
+      {
+        "q": "CTA trong nội dung sáng tạo nghĩa là gì?",
+        "a": "Lời kêu gọi hành động",
+        "w": [
+          "Chỉ số lỗi",
+          "Tốc độ tải",
+          "Bản quyền"
+        ]
+      },
+      {
+        "q": "Vì sao cần quan tâm bản quyền nhạc nền?",
+        "a": "Tránh bị gỡ video hoặc khiếu nại",
+        "w": [
+          "Làm video nhẹ hơn",
+          "Tăng độ phân giải",
+          "Không liên quan gì"
+        ]
+      },
+      {
+        "q": "Nhịp 4/4 có mấy phách trong một ô nhịp?",
+        "a": "4",
+        "w": [
+          "3",
+          "2",
+          "6"
+        ]
+      },
+      {
+        "q": "Tiêu đề bài báo tốt cần có đặc điểm gì?",
+        "a": "Ngắn gọn, đúng nội dung",
+        "w": [
+          "Gây hiểu lầm",
+          "Rất dài",
+          "Không liên quan bài viết"
+        ]
+      },
+      {
+        "q": "Nguyên tắc cơ bản của người làm báo là gì?",
+        "a": "Trung thực, kiểm chứng thông tin",
+        "w": [
+          "Bịa thông tin",
+          "Sao chép không dẫn nguồn",
+          "Chỉ tin một nguồn"
+        ]
+      },
+      {
+        "q": "Phông chữ serif có đặc điểm gì?",
+        "a": "Có chân ở đầu nét chữ",
+        "w": [
+          "Không có nét nào",
+          "Chỉ có chữ in hoa",
+          "Chỉ dùng cho chữ số"
+        ]
+      },
+      {
+        "q": "Livestream ổn định cần ưu tiên điều gì?",
+        "a": "Đường truyền mạng tốt",
+        "w": [
+          "Tắt âm thanh",
+          "Màn hình nhỏ",
+          "Không kiểm tra thiết bị"
+        ]
+      },
+      {
+        "q": "Cắt cảnh (cut) trong dựng phim dùng để làm gì?",
+        "a": "Chuyển cảnh và điều chỉnh nhịp",
+        "w": [
+          "Thêm dung lượng",
+          "Đổi tên tệp",
+          "Xóa luôn bản gốc"
+        ]
+      },
+      {
+        "q": "Theo vòng màu truyền thống, màu bổ sung của xanh dương là gì?",
+        "a": "Cam",
+        "w": [
+          "Tím",
+          "Xanh lá",
+          "Đỏ"
+        ]
+      },
+      {
+        "q": "Cấu trúc cơ bản của một câu chuyện là gì?",
+        "a": "Mở đầu, phát triển, cao trào, kết thúc",
+        "w": [
+          "Chỉ có kết thúc",
+          "Chỉ có mở đầu",
+          "Không có cấu trúc"
+        ]
+      }
+    ],
+    "chuyenmon": [
+      {
+        "q": "Công thức tính chu vi hình tròn là gì?",
+        "a": "2πr",
+        "w": [
+          "πr²",
+          "4πr²",
+          "πr"
+        ]
+      },
+      {
+        "q": "Huyết áp bình thường của người lớn xấp xỉ bao nhiêu?",
+        "a": "120/80 mmHg",
+        "w": [
+          "220/180 mmHg",
+          "60/20 mmHg",
+          "300/100 mmHg"
+        ]
+      },
+      {
+        "q": "Kháng sinh có tác dụng với tác nhân nào?",
+        "a": "Vi khuẩn",
+        "w": [
+          "Virus cảm cúm",
+          "Dị ứng",
+          "Tia UV"
+        ]
+      },
+      {
+        "q": "Trong kế toán, Tài sản bằng gì?",
+        "a": "Nợ phải trả cộng vốn chủ sở hữu",
+        "w": [
+          "Doanh thu trừ chi phí",
+          "Nợ trừ vốn",
+          "Lợi nhuận nhân hai"
+        ]
+      },
+      {
+        "q": "Nguyên tắc suy đoán vô tội nghĩa là gì?",
+        "a": "Chưa có phán quyết có tội thì coi là vô tội",
+        "w": [
+          "Bị cáo luôn có tội",
+          "Không cần chứng cứ",
+          "Chỉ xét theo tin đồn"
+        ]
+      },
+      {
+        "q": "Hợp đồng muốn có hiệu lực cần điều gì?",
+        "a": "Có sự đồng thuận và nội dung không trái pháp luật",
+        "w": [
+          "Chỉ cần chữ ký đẹp",
+          "Phải in giấy màu",
+          "Không cần bên thứ hai"
+        ]
+      },
+      {
+        "q": "Thiết kế chịu tải công trình cần dựa vào điều gì?",
+        "a": "Tính toán kết cấu và hệ số an toàn",
+        "w": [
+          "Ước lượng cảm tính",
+          "Màu sơn",
+          "Giá vật liệu rẻ nhất"
+        ]
+      },
+      {
+        "q": "Thước tỷ lệ trong bản vẽ dùng để làm gì?",
+        "a": "Thu nhỏ công trình đúng tỷ lệ",
+        "w": [
+          "Tăng giá",
+          "Đổi màu",
+          "Ghi tên khách"
+        ]
+      },
+      {
+        "q": "Trước khi cất cánh, phi công cần làm gì?",
+        "a": "Kiểm tra theo danh mục checklist",
+        "w": [
+          "Chỉ nhìn trời",
+          "Bỏ qua kiểm tra",
+          "Hỏi ý hành khách"
+        ]
+      },
+      {
+        "q": "Chỉ số KPI dùng để làm gì?",
+        "a": "Đo lường hiệu quả công việc",
+        "w": [
+          "Đo nhiệt độ",
+          "Đếm số khách",
+          "Đặt tên sản phẩm"
+        ]
+      },
+      {
+        "q": "Giảng dạy hiệu quả cần điều gì?",
+        "a": "Mục tiêu rõ và phản hồi cho học sinh",
+        "w": [
+          "Chỉ đọc chép",
+          "Không kiểm tra",
+          "Bỏ qua câu hỏi"
+        ]
+      },
+      {
+        "q": "Bán thuốc kê đơn, dược sĩ cần lưu ý gì?",
+        "a": "Phải có đơn của bác sĩ",
+        "w": [
+          "Bán cho mọi người",
+          "Không cần kiểm tra hạn",
+          "Tự ý đổi thuốc"
+        ]
+      },
+      {
+        "q": "Lợi nhuận được tính như thế nào?",
+        "a": "Doanh thu trừ chi phí",
+        "w": [
+          "Doanh thu cộng chi phí",
+          "Chi phí trừ doanh thu",
+          "Doanh thu nhân chi phí"
+        ]
+      },
+      {
+        "q": "Giám đốc nên ra quyết định dựa vào đâu?",
+        "a": "Dữ liệu và phân tích rủi ro",
+        "w": [
+          "Cảm hứng nhất thời",
+          "Tin đồn",
+          "Bốc thăm"
+        ]
+      }
+    ]
+  },
+  "tasks": [
+    {
+      "id": "cong_nhan_nha_may_t1",
+      "jobId": "cong_nhan_nha_may",
+      "order": 1,
+      "name": "Điểm danh vào ca",
+      "description": "Điểm danh vào ca: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Điểm danh vào ca — xử lý sản phẩm theo yêu cầu quản lý.",
+        "Điểm danh vào ca — đảm bảo đúng quy trình với từng sản phẩm.",
+        "Điểm danh vào ca — làm cẩn thận để sản phẩm đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "cong_nhan_nha_may_t2",
+      "jobId": "cong_nhan_nha_may",
+      "order": 2,
+      "name": "Lắp ráp sản phẩm trên dây chuyền",
+      "description": "Lắp ráp sản phẩm trên dây chuyền: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Lắp ráp sản phẩm trên dây chuyền — xử lý sản phẩm theo yêu cầu quản lý.",
+        "Lắp ráp sản phẩm trên dây chuyền — đảm bảo đúng quy trình với từng sản phẩm.",
+        "Lắp ráp sản phẩm trên dây chuyền — làm cẩn thận để sản phẩm đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "cong_nhan_nha_may_t3",
+      "jobId": "cong_nhan_nha_may",
+      "order": 3,
+      "name": "Kiểm tra chất lượng thành phẩm",
+      "description": "Kiểm tra chất lượng thành phẩm: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra chất lượng thành phẩm — xử lý sản phẩm theo yêu cầu quản lý.",
+        "Kiểm tra chất lượng thành phẩm — đảm bảo đúng quy trình với từng sản phẩm.",
+        "Kiểm tra chất lượng thành phẩm — làm cẩn thận để sản phẩm đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "cong_nhan_nha_may_t4",
+      "jobId": "cong_nhan_nha_may",
+      "order": 4,
+      "name": "Bảo dưỡng máy đầu ca",
+      "description": "Bảo dưỡng máy đầu ca: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Bảo dưỡng máy đầu ca — xử lý sản phẩm theo yêu cầu quản lý.",
+        "Bảo dưỡng máy đầu ca — đảm bảo đúng quy trình với từng sản phẩm.",
+        "Bảo dưỡng máy đầu ca — làm cẩn thận để sản phẩm đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "cong_nhan_nha_may_t5",
+      "jobId": "cong_nhan_nha_may",
+      "order": 5,
+      "name": "Ghi sổ sản lượng cuối ca",
+      "description": "Ghi sổ sản lượng cuối ca: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Ghi sổ sản lượng cuối ca — xử lý sản phẩm theo yêu cầu quản lý.",
+        "Ghi sổ sản lượng cuối ca — đảm bảo đúng quy trình với từng sản phẩm.",
+        "Ghi sổ sản lượng cuối ca — làm cẩn thận để sản phẩm đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_hang_t1",
+      "jobId": "giao_hang",
+      "order": 1,
+      "name": "Nhận đơn tại kho",
+      "description": "Nhận đơn tại kho: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nhận đơn tại kho — xử lý đơn hàng theo yêu cầu quản lý.",
+        "Nhận đơn tại kho — đảm bảo đúng quy trình với từng đơn hàng.",
+        "Nhận đơn tại kho — làm cẩn thận để đơn hàng đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_hang_t2",
+      "jobId": "giao_hang",
+      "order": 2,
+      "name": "Sắp xếp tuyến giao hàng",
+      "description": "Sắp xếp tuyến giao hàng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Sắp xếp tuyến giao hàng — xử lý đơn hàng theo yêu cầu quản lý.",
+        "Sắp xếp tuyến giao hàng — đảm bảo đúng quy trình với từng đơn hàng.",
+        "Sắp xếp tuyến giao hàng — làm cẩn thận để đơn hàng đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_hang_t3",
+      "jobId": "giao_hang",
+      "order": 3,
+      "name": "Giao đơn đúng địa chỉ",
+      "description": "Giao đơn đúng địa chỉ: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Giao đơn đúng địa chỉ — xử lý đơn hàng theo yêu cầu quản lý.",
+        "Giao đơn đúng địa chỉ — đảm bảo đúng quy trình với từng đơn hàng.",
+        "Giao đơn đúng địa chỉ — làm cẩn thận để đơn hàng đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_hang_t4",
+      "jobId": "giao_hang",
+      "order": 4,
+      "name": "Thu tiền COD và đối soát",
+      "description": "Thu tiền COD và đối soát: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thu tiền COD và đối soát — xử lý đơn hàng theo yêu cầu quản lý.",
+        "Thu tiền COD và đối soát — đảm bảo đúng quy trình với từng đơn hàng.",
+        "Thu tiền COD và đối soát — làm cẩn thận để đơn hàng đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_hang_t5",
+      "jobId": "giao_hang",
+      "order": 5,
+      "name": "Chụp ảnh xác nhận giao",
+      "description": "Chụp ảnh xác nhận giao: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chụp ảnh xác nhận giao — xử lý đơn hàng theo yêu cầu quản lý.",
+        "Chụp ảnh xác nhận giao — đảm bảo đúng quy trình với từng đơn hàng.",
+        "Chụp ảnh xác nhận giao — làm cẩn thận để đơn hàng đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ve_sinh_t1",
+      "jobId": "ve_sinh",
+      "order": 1,
+      "name": "Chuẩn bị dụng cụ vệ sinh",
+      "description": "Chuẩn bị dụng cụ vệ sinh: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chuẩn bị dụng cụ vệ sinh — xử lý khu vực theo yêu cầu quản lý.",
+        "Chuẩn bị dụng cụ vệ sinh — đảm bảo đúng quy trình với từng khu vực.",
+        "Chuẩn bị dụng cụ vệ sinh — làm cẩn thận để khu vực đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ve_sinh_t2",
+      "jobId": "ve_sinh",
+      "order": 2,
+      "name": "Quét dọn khu vực chính",
+      "description": "Quét dọn khu vực chính: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Quét dọn khu vực chính — xử lý khu vực theo yêu cầu quản lý.",
+        "Quét dọn khu vực chính — đảm bảo đúng quy trình với từng khu vực.",
+        "Quét dọn khu vực chính — làm cẩn thận để khu vực đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ve_sinh_t3",
+      "jobId": "ve_sinh",
+      "order": 3,
+      "name": "Lau sàn và cửa kính",
+      "description": "Lau sàn và cửa kính: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Lau sàn và cửa kính — xử lý khu vực theo yêu cầu quản lý.",
+        "Lau sàn và cửa kính — đảm bảo đúng quy trình với từng khu vực.",
+        "Lau sàn và cửa kính — làm cẩn thận để khu vực đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ve_sinh_t4",
+      "jobId": "ve_sinh",
+      "order": 4,
+      "name": "Thu gom rác phân loại",
+      "description": "Thu gom rác phân loại: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thu gom rác phân loại — xử lý khu vực theo yêu cầu quản lý.",
+        "Thu gom rác phân loại — đảm bảo đúng quy trình với từng khu vực.",
+        "Thu gom rác phân loại — làm cẩn thận để khu vực đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ve_sinh_t5",
+      "jobId": "ve_sinh",
+      "order": 5,
+      "name": "Kiểm tra vật tư tồn",
+      "description": "Kiểm tra vật tư tồn: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra vật tư tồn — xử lý khu vực theo yêu cầu quản lý.",
+        "Kiểm tra vật tư tồn — đảm bảo đúng quy trình với từng khu vực.",
+        "Kiểm tra vật tư tồn — làm cẩn thận để khu vực đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phu_ho_t1",
+      "jobId": "phu_ho",
+      "order": 1,
+      "name": "Kiểm tra bảo hộ lao động",
+      "description": "Kiểm tra bảo hộ lao động: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra bảo hộ lao động — xử lý xe vữa theo yêu cầu quản lý.",
+        "Kiểm tra bảo hộ lao động — đảm bảo đúng quy trình với từng xe vữa.",
+        "Kiểm tra bảo hộ lao động — làm cẩn thận để xe vữa đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phu_ho_t2",
+      "jobId": "phu_ho",
+      "order": 2,
+      "name": "Trộn vữa đúng tỷ lệ",
+      "description": "Trộn vữa đúng tỷ lệ: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Trộn vữa đúng tỷ lệ — xử lý xe vữa theo yêu cầu quản lý.",
+        "Trộn vữa đúng tỷ lệ — đảm bảo đúng quy trình với từng xe vữa.",
+        "Trộn vữa đúng tỷ lệ — làm cẩn thận để xe vữa đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phu_ho_t3",
+      "jobId": "phu_ho",
+      "order": 3,
+      "name": "Vận chuyển gạch lên tầng",
+      "description": "Vận chuyển gạch lên tầng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Vận chuyển gạch lên tầng — xử lý xe vữa theo yêu cầu quản lý.",
+        "Vận chuyển gạch lên tầng — đảm bảo đúng quy trình với từng xe vữa.",
+        "Vận chuyển gạch lên tầng — làm cẩn thận để xe vữa đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phu_ho_t4",
+      "jobId": "phu_ho",
+      "order": 4,
+      "name": "Dọn mặt bằng thi công",
+      "description": "Dọn mặt bằng thi công: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Dọn mặt bằng thi công — xử lý xe vữa theo yêu cầu quản lý.",
+        "Dọn mặt bằng thi công — đảm bảo đúng quy trình với từng xe vữa.",
+        "Dọn mặt bằng thi công — làm cẩn thận để xe vữa đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phu_ho_t5",
+      "jobId": "phu_ho",
+      "order": 5,
+      "name": "Báo cáo vật liệu còn lại",
+      "description": "Báo cáo vật liệu còn lại: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Báo cáo vật liệu còn lại — xử lý xe vữa theo yêu cầu quản lý.",
+        "Báo cáo vật liệu còn lại — đảm bảo đúng quy trình với từng xe vữa.",
+        "Báo cáo vật liệu còn lại — làm cẩn thận để xe vữa đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nong_dan_t1",
+      "jobId": "nong_dan",
+      "order": 1,
+      "name": "Kiểm tra độ ẩm đất",
+      "description": "Kiểm tra độ ẩm đất: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra độ ẩm đất — xử lý luống rau theo yêu cầu quản lý.",
+        "Kiểm tra độ ẩm đất — đảm bảo đúng quy trình với từng luống rau.",
+        "Kiểm tra độ ẩm đất — làm cẩn thận để luống rau đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nong_dan_t2",
+      "jobId": "nong_dan",
+      "order": 2,
+      "name": "Gieo hạt đúng mùa vụ",
+      "description": "Gieo hạt đúng mùa vụ: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Gieo hạt đúng mùa vụ — xử lý luống rau theo yêu cầu quản lý.",
+        "Gieo hạt đúng mùa vụ — đảm bảo đúng quy trình với từng luống rau.",
+        "Gieo hạt đúng mùa vụ — làm cẩn thận để luống rau đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nong_dan_t3",
+      "jobId": "nong_dan",
+      "order": 3,
+      "name": "Tưới và bón phân",
+      "description": "Tưới và bón phân: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tưới và bón phân — xử lý luống rau theo yêu cầu quản lý.",
+        "Tưới và bón phân — đảm bảo đúng quy trình với từng luống rau.",
+        "Tưới và bón phân — làm cẩn thận để luống rau đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nong_dan_t4",
+      "jobId": "nong_dan",
+      "order": 4,
+      "name": "Nhổ cỏ và phòng sâu bệnh",
+      "description": "Nhổ cỏ và phòng sâu bệnh: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nhổ cỏ và phòng sâu bệnh — xử lý luống rau theo yêu cầu quản lý.",
+        "Nhổ cỏ và phòng sâu bệnh — đảm bảo đúng quy trình với từng luống rau.",
+        "Nhổ cỏ và phòng sâu bệnh — làm cẩn thận để luống rau đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nong_dan_t5",
+      "jobId": "nong_dan",
+      "order": 5,
+      "name": "Thu hoạch và phân loại",
+      "description": "Thu hoạch và phân loại: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thu hoạch và phân loại — xử lý luống rau theo yêu cầu quản lý.",
+        "Thu hoạch và phân loại — đảm bảo đúng quy trình với từng luống rau.",
+        "Thu hoạch và phân loại — làm cẩn thận để luống rau đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ngu_dan_t1",
+      "jobId": "ngu_dan",
+      "order": 1,
+      "name": "Kiểm tra thời tiết biển",
+      "description": "Kiểm tra thời tiết biển: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra thời tiết biển — xử lý mẻ lưới theo yêu cầu quản lý.",
+        "Kiểm tra thời tiết biển — đảm bảo đúng quy trình với từng mẻ lưới.",
+        "Kiểm tra thời tiết biển — làm cẩn thận để mẻ lưới đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ngu_dan_t2",
+      "jobId": "ngu_dan",
+      "order": 2,
+      "name": "Chuẩn bị lưới và thuyền",
+      "description": "Chuẩn bị lưới và thuyền: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chuẩn bị lưới và thuyền — xử lý mẻ lưới theo yêu cầu quản lý.",
+        "Chuẩn bị lưới và thuyền — đảm bảo đúng quy trình với từng mẻ lưới.",
+        "Chuẩn bị lưới và thuyền — làm cẩn thận để mẻ lưới đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ngu_dan_t3",
+      "jobId": "ngu_dan",
+      "order": 3,
+      "name": "Thả lưới đúng ngư trường",
+      "description": "Thả lưới đúng ngư trường: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thả lưới đúng ngư trường — xử lý mẻ lưới theo yêu cầu quản lý.",
+        "Thả lưới đúng ngư trường — đảm bảo đúng quy trình với từng mẻ lưới.",
+        "Thả lưới đúng ngư trường — làm cẩn thận để mẻ lưới đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ngu_dan_t4",
+      "jobId": "ngu_dan",
+      "order": 4,
+      "name": "Kéo lưới thu cá",
+      "description": "Kéo lưới thu cá: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kéo lưới thu cá — xử lý mẻ lưới theo yêu cầu quản lý.",
+        "Kéo lưới thu cá — đảm bảo đúng quy trình với từng mẻ lưới.",
+        "Kéo lưới thu cá — làm cẩn thận để mẻ lưới đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ngu_dan_t5",
+      "jobId": "ngu_dan",
+      "order": 5,
+      "name": "Bảo quản cá bằng đá lạnh",
+      "description": "Bảo quản cá bằng đá lạnh: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Bảo quản cá bằng đá lạnh — xử lý mẻ lưới theo yêu cầu quản lý.",
+        "Bảo quản cá bằng đá lạnh — đảm bảo đúng quy trình với từng mẻ lưới.",
+        "Bảo quản cá bằng đá lạnh — làm cẩn thận để mẻ lưới đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_kho_t1",
+      "jobId": "nv_kho",
+      "order": 1,
+      "name": "Kiểm đếm hàng nhập",
+      "description": "Kiểm đếm hàng nhập: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm đếm hàng nhập — xử lý kiện hàng theo yêu cầu quản lý.",
+        "Kiểm đếm hàng nhập — đảm bảo đúng quy trình với từng kiện hàng.",
+        "Kiểm đếm hàng nhập — làm cẩn thận để kiện hàng đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_kho_t2",
+      "jobId": "nv_kho",
+      "order": 2,
+      "name": "Sắp xếp hàng lên kệ",
+      "description": "Sắp xếp hàng lên kệ: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Sắp xếp hàng lên kệ — xử lý kiện hàng theo yêu cầu quản lý.",
+        "Sắp xếp hàng lên kệ — đảm bảo đúng quy trình với từng kiện hàng.",
+        "Sắp xếp hàng lên kệ — làm cẩn thận để kiện hàng đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_kho_t3",
+      "jobId": "nv_kho",
+      "order": 3,
+      "name": "Soạn hàng theo phiếu xuất",
+      "description": "Soạn hàng theo phiếu xuất: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Soạn hàng theo phiếu xuất — xử lý kiện hàng theo yêu cầu quản lý.",
+        "Soạn hàng theo phiếu xuất — đảm bảo đúng quy trình với từng kiện hàng.",
+        "Soạn hàng theo phiếu xuất — làm cẩn thận để kiện hàng đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_kho_t4",
+      "jobId": "nv_kho",
+      "order": 4,
+      "name": "Cập nhật phần mềm kho",
+      "description": "Cập nhật phần mềm kho: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Cập nhật phần mềm kho — xử lý kiện hàng theo yêu cầu quản lý.",
+        "Cập nhật phần mềm kho — đảm bảo đúng quy trình với từng kiện hàng.",
+        "Cập nhật phần mềm kho — làm cẩn thận để kiện hàng đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_kho_t5",
+      "jobId": "nv_kho",
+      "order": 5,
+      "name": "Kiểm kê cuối ngày",
+      "description": "Kiểm kê cuối ngày: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm kê cuối ngày — xử lý kiện hàng theo yêu cầu quản lý.",
+        "Kiểm kê cuối ngày — đảm bảo đúng quy trình với từng kiện hàng.",
+        "Kiểm kê cuối ngày — làm cẩn thận để kiện hàng đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dong_goi_t1",
+      "jobId": "dong_goi",
+      "order": 1,
+      "name": "Chuẩn bị vật liệu đóng gói",
+      "description": "Chuẩn bị vật liệu đóng gói: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chuẩn bị vật liệu đóng gói — xử lý thùng hàng theo yêu cầu quản lý.",
+        "Chuẩn bị vật liệu đóng gói — đảm bảo đúng quy trình với từng thùng hàng.",
+        "Chuẩn bị vật liệu đóng gói — làm cẩn thận để thùng hàng đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dong_goi_t2",
+      "jobId": "dong_goi",
+      "order": 2,
+      "name": "Đóng gói hàng dễ vỡ",
+      "description": "Đóng gói hàng dễ vỡ: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đóng gói hàng dễ vỡ — xử lý thùng hàng theo yêu cầu quản lý.",
+        "Đóng gói hàng dễ vỡ — đảm bảo đúng quy trình với từng thùng hàng.",
+        "Đóng gói hàng dễ vỡ — làm cẩn thận để thùng hàng đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dong_goi_t3",
+      "jobId": "dong_goi",
+      "order": 3,
+      "name": "Dán nhãn vận chuyển",
+      "description": "Dán nhãn vận chuyển: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Dán nhãn vận chuyển — xử lý thùng hàng theo yêu cầu quản lý.",
+        "Dán nhãn vận chuyển — đảm bảo đúng quy trình với từng thùng hàng.",
+        "Dán nhãn vận chuyển — làm cẩn thận để thùng hàng đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dong_goi_t4",
+      "jobId": "dong_goi",
+      "order": 4,
+      "name": "Cân và kiểm tra khối lượng",
+      "description": "Cân và kiểm tra khối lượng: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Cân và kiểm tra khối lượng — xử lý thùng hàng theo yêu cầu quản lý.",
+        "Cân và kiểm tra khối lượng — đảm bảo đúng quy trình với từng thùng hàng.",
+        "Cân và kiểm tra khối lượng — làm cẩn thận để thùng hàng đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dong_goi_t5",
+      "jobId": "dong_goi",
+      "order": 5,
+      "name": "Xếp thùng lên pallet",
+      "description": "Xếp thùng lên pallet: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xếp thùng lên pallet — xử lý thùng hàng theo yêu cầu quản lý.",
+        "Xếp thùng lên pallet — đảm bảo đúng quy trình với từng thùng hàng.",
+        "Xếp thùng lên pallet — làm cẩn thận để thùng hàng đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_sua_xe_t1",
+      "jobId": "tho_sua_xe",
+      "order": 1,
+      "name": "Tiếp nhận và kiểm tra xe",
+      "description": "Tiếp nhận và kiểm tra xe: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tiếp nhận và kiểm tra xe — xử lý chiếc xe theo yêu cầu quản lý.",
+        "Tiếp nhận và kiểm tra xe — đảm bảo đúng quy trình với từng chiếc xe.",
+        "Tiếp nhận và kiểm tra xe — làm cẩn thận để chiếc xe đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_sua_xe_t2",
+      "jobId": "tho_sua_xe",
+      "order": 2,
+      "name": "Chẩn đoán hư hỏng",
+      "description": "Chẩn đoán hư hỏng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chẩn đoán hư hỏng — xử lý chiếc xe theo yêu cầu quản lý.",
+        "Chẩn đoán hư hỏng — đảm bảo đúng quy trình với từng chiếc xe.",
+        "Chẩn đoán hư hỏng — làm cẩn thận để chiếc xe đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_sua_xe_t3",
+      "jobId": "tho_sua_xe",
+      "order": 3,
+      "name": "Thay phụ tùng",
+      "description": "Thay phụ tùng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thay phụ tùng — xử lý chiếc xe theo yêu cầu quản lý.",
+        "Thay phụ tùng — đảm bảo đúng quy trình với từng chiếc xe.",
+        "Thay phụ tùng — làm cẩn thận để chiếc xe đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_sua_xe_t4",
+      "jobId": "tho_sua_xe",
+      "order": 4,
+      "name": "Chạy thử sau sửa",
+      "description": "Chạy thử sau sửa: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chạy thử sau sửa — xử lý chiếc xe theo yêu cầu quản lý.",
+        "Chạy thử sau sửa — đảm bảo đúng quy trình với từng chiếc xe.",
+        "Chạy thử sau sửa — làm cẩn thận để chiếc xe đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_sua_xe_t5",
+      "jobId": "tho_sua_xe",
+      "order": 5,
+      "name": "Lập phiếu thanh toán",
+      "description": "Lập phiếu thanh toán: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Lập phiếu thanh toán — xử lý chiếc xe theo yêu cầu quản lý.",
+        "Lập phiếu thanh toán — đảm bảo đúng quy trình với từng chiếc xe.",
+        "Lập phiếu thanh toán — làm cẩn thận để chiếc xe đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phuc_vu_t1",
+      "jobId": "phuc_vu",
+      "order": 1,
+      "name": "Chào đón và xếp chỗ",
+      "description": "Chào đón và xếp chỗ: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chào đón và xếp chỗ — xử lý bàn khách theo yêu cầu quản lý.",
+        "Chào đón và xếp chỗ — đảm bảo đúng quy trình với từng bàn khách.",
+        "Chào đón và xếp chỗ — làm cẩn thận để bàn khách đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phuc_vu_t2",
+      "jobId": "phuc_vu",
+      "order": 2,
+      "name": "Ghi món chính xác",
+      "description": "Ghi món chính xác: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Ghi món chính xác — xử lý bàn khách theo yêu cầu quản lý.",
+        "Ghi món chính xác — đảm bảo đúng quy trình với từng bàn khách.",
+        "Ghi món chính xác — làm cẩn thận để bàn khách đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phuc_vu_t3",
+      "jobId": "phuc_vu",
+      "order": 3,
+      "name": "Bưng món đúng bàn",
+      "description": "Bưng món đúng bàn: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Bưng món đúng bàn — xử lý bàn khách theo yêu cầu quản lý.",
+        "Bưng món đúng bàn — đảm bảo đúng quy trình với từng bàn khách.",
+        "Bưng món đúng bàn — làm cẩn thận để bàn khách đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phuc_vu_t4",
+      "jobId": "phuc_vu",
+      "order": 4,
+      "name": "Xử lý yêu cầu của khách",
+      "description": "Xử lý yêu cầu của khách: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xử lý yêu cầu của khách — xử lý bàn khách theo yêu cầu quản lý.",
+        "Xử lý yêu cầu của khách — đảm bảo đúng quy trình với từng bàn khách.",
+        "Xử lý yêu cầu của khách — làm cẩn thận để bàn khách đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phuc_vu_t5",
+      "jobId": "phuc_vu",
+      "order": 5,
+      "name": "Dọn bàn và setup lại",
+      "description": "Dọn bàn và setup lại: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Dọn bàn và setup lại — xử lý bàn khách theo yêu cầu quản lý.",
+        "Dọn bàn và setup lại — đảm bảo đúng quy trình với từng bàn khách.",
+        "Dọn bàn và setup lại — làm cẩn thận để bàn khách đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ban_hang_t1",
+      "jobId": "ban_hang",
+      "order": 1,
+      "name": "Trưng bày sản phẩm",
+      "description": "Trưng bày sản phẩm: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Trưng bày sản phẩm — xử lý đơn bán theo yêu cầu quản lý.",
+        "Trưng bày sản phẩm — đảm bảo đúng quy trình với từng đơn bán.",
+        "Trưng bày sản phẩm — làm cẩn thận để đơn bán đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ban_hang_t2",
+      "jobId": "ban_hang",
+      "order": 2,
+      "name": "Tư vấn nhu cầu khách",
+      "description": "Tư vấn nhu cầu khách: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tư vấn nhu cầu khách — xử lý đơn bán theo yêu cầu quản lý.",
+        "Tư vấn nhu cầu khách — đảm bảo đúng quy trình với từng đơn bán.",
+        "Tư vấn nhu cầu khách — làm cẩn thận để đơn bán đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ban_hang_t3",
+      "jobId": "ban_hang",
+      "order": 3,
+      "name": "Chốt đơn hàng",
+      "description": "Chốt đơn hàng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chốt đơn hàng — xử lý đơn bán theo yêu cầu quản lý.",
+        "Chốt đơn hàng — đảm bảo đúng quy trình với từng đơn bán.",
+        "Chốt đơn hàng — làm cẩn thận để đơn bán đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ban_hang_t4",
+      "jobId": "ban_hang",
+      "order": 4,
+      "name": "Xử lý đổi trả",
+      "description": "Xử lý đổi trả: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xử lý đổi trả — xử lý đơn bán theo yêu cầu quản lý.",
+        "Xử lý đổi trả — đảm bảo đúng quy trình với từng đơn bán.",
+        "Xử lý đổi trả — làm cẩn thận để đơn bán đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ban_hang_t5",
+      "jobId": "ban_hang",
+      "order": 5,
+      "name": "Báo cáo doanh số ca",
+      "description": "Báo cáo doanh số ca: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Báo cáo doanh số ca — xử lý đơn bán theo yêu cầu quản lý.",
+        "Báo cáo doanh số ca — đảm bảo đúng quy trình với từng đơn bán.",
+        "Báo cáo doanh số ca — làm cẩn thận để đơn bán đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thu_ngan_t1",
+      "jobId": "thu_ngan",
+      "order": 1,
+      "name": "Mở quỹ đầu ca",
+      "description": "Mở quỹ đầu ca: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Mở quỹ đầu ca — xử lý hóa đơn theo yêu cầu quản lý.",
+        "Mở quỹ đầu ca — đảm bảo đúng quy trình với từng hóa đơn.",
+        "Mở quỹ đầu ca — làm cẩn thận để hóa đơn đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thu_ngan_t2",
+      "jobId": "thu_ngan",
+      "order": 2,
+      "name": "Quét mã và tính tiền",
+      "description": "Quét mã và tính tiền: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Quét mã và tính tiền — xử lý hóa đơn theo yêu cầu quản lý.",
+        "Quét mã và tính tiền — đảm bảo đúng quy trình với từng hóa đơn.",
+        "Quét mã và tính tiền — làm cẩn thận để hóa đơn đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thu_ngan_t3",
+      "jobId": "thu_ngan",
+      "order": 3,
+      "name": "Trả tiền thừa chính xác",
+      "description": "Trả tiền thừa chính xác: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Trả tiền thừa chính xác — xử lý hóa đơn theo yêu cầu quản lý.",
+        "Trả tiền thừa chính xác — đảm bảo đúng quy trình với từng hóa đơn.",
+        "Trả tiền thừa chính xác — làm cẩn thận để hóa đơn đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thu_ngan_t4",
+      "jobId": "thu_ngan",
+      "order": 4,
+      "name": "Xử lý thanh toán thẻ",
+      "description": "Xử lý thanh toán thẻ: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xử lý thanh toán thẻ — xử lý hóa đơn theo yêu cầu quản lý.",
+        "Xử lý thanh toán thẻ — đảm bảo đúng quy trình với từng hóa đơn.",
+        "Xử lý thanh toán thẻ — làm cẩn thận để hóa đơn đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thu_ngan_t5",
+      "jobId": "thu_ngan",
+      "order": 5,
+      "name": "Đối soát quỹ cuối ca",
+      "description": "Đối soát quỹ cuối ca: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đối soát quỹ cuối ca — xử lý hóa đơn theo yêu cầu quản lý.",
+        "Đối soát quỹ cuối ca — đảm bảo đúng quy trình với từng hóa đơn.",
+        "Đối soát quỹ cuối ca — làm cẩn thận để hóa đơn đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "cskh_t1",
+      "jobId": "cskh",
+      "order": 1,
+      "name": "Đăng nhập hệ thống tổng đài",
+      "description": "Đăng nhập hệ thống tổng đài: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đăng nhập hệ thống tổng đài — xử lý cuộc gọi theo yêu cầu quản lý.",
+        "Đăng nhập hệ thống tổng đài — đảm bảo đúng quy trình với từng cuộc gọi.",
+        "Đăng nhập hệ thống tổng đài — làm cẩn thận để cuộc gọi đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "cskh_t2",
+      "jobId": "cskh",
+      "order": 2,
+      "name": "Tiếp nhận cuộc gọi",
+      "description": "Tiếp nhận cuộc gọi: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tiếp nhận cuộc gọi — xử lý cuộc gọi theo yêu cầu quản lý.",
+        "Tiếp nhận cuộc gọi — đảm bảo đúng quy trình với từng cuộc gọi.",
+        "Tiếp nhận cuộc gọi — làm cẩn thận để cuộc gọi đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "cskh_t3",
+      "jobId": "cskh",
+      "order": 3,
+      "name": "Giải đáp thắc mắc",
+      "description": "Giải đáp thắc mắc: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Giải đáp thắc mắc — xử lý cuộc gọi theo yêu cầu quản lý.",
+        "Giải đáp thắc mắc — đảm bảo đúng quy trình với từng cuộc gọi.",
+        "Giải đáp thắc mắc — làm cẩn thận để cuộc gọi đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "cskh_t4",
+      "jobId": "cskh",
+      "order": 4,
+      "name": "Xử lý khiếu nại",
+      "description": "Xử lý khiếu nại: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xử lý khiếu nại — xử lý cuộc gọi theo yêu cầu quản lý.",
+        "Xử lý khiếu nại — đảm bảo đúng quy trình với từng cuộc gọi.",
+        "Xử lý khiếu nại — làm cẩn thận để cuộc gọi đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "cskh_t5",
+      "jobId": "cskh",
+      "order": 5,
+      "name": "Ghi nhận phản hồi khách",
+      "description": "Ghi nhận phản hồi khách: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Ghi nhận phản hồi khách — xử lý cuộc gọi theo yêu cầu quản lý.",
+        "Ghi nhận phản hồi khách — đảm bảo đúng quy trình với từng cuộc gọi.",
+        "Ghi nhận phản hồi khách — làm cẩn thận để cuộc gọi đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "pha_che_t1",
+      "jobId": "pha_che",
+      "order": 1,
+      "name": "Chuẩn bị nguyên liệu",
+      "description": "Chuẩn bị nguyên liệu: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chuẩn bị nguyên liệu — xử lý ly đồ uống theo yêu cầu quản lý.",
+        "Chuẩn bị nguyên liệu — đảm bảo đúng quy trình với từng ly đồ uống.",
+        "Chuẩn bị nguyên liệu — làm cẩn thận để ly đồ uống đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "pha_che_t2",
+      "jobId": "pha_che",
+      "order": 2,
+      "name": "Pha cà phê theo công thức",
+      "description": "Pha cà phê theo công thức: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Pha cà phê theo công thức — xử lý ly đồ uống theo yêu cầu quản lý.",
+        "Pha cà phê theo công thức — đảm bảo đúng quy trình với từng ly đồ uống.",
+        "Pha cà phê theo công thức — làm cẩn thận để ly đồ uống đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "pha_che_t3",
+      "jobId": "pha_che",
+      "order": 3,
+      "name": "Làm trà và sinh tố",
+      "description": "Làm trà và sinh tố: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Làm trà và sinh tố — xử lý ly đồ uống theo yêu cầu quản lý.",
+        "Làm trà và sinh tố — đảm bảo đúng quy trình với từng ly đồ uống.",
+        "Làm trà và sinh tố — làm cẩn thận để ly đồ uống đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "pha_che_t4",
+      "jobId": "pha_che",
+      "order": 4,
+      "name": "Trang trí ly đồ uống",
+      "description": "Trang trí ly đồ uống: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Trang trí ly đồ uống — xử lý ly đồ uống theo yêu cầu quản lý.",
+        "Trang trí ly đồ uống — đảm bảo đúng quy trình với từng ly đồ uống.",
+        "Trang trí ly đồ uống — làm cẩn thận để ly đồ uống đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "pha_che_t5",
+      "jobId": "pha_che",
+      "order": 5,
+      "name": "Vệ sinh quầy bar",
+      "description": "Vệ sinh quầy bar: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Vệ sinh quầy bar — xử lý ly đồ uống theo yêu cầu quản lý.",
+        "Vệ sinh quầy bar — đảm bảo đúng quy trình với từng ly đồ uống.",
+        "Vệ sinh quầy bar — làm cẩn thận để ly đồ uống đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dau_bep_t1",
+      "jobId": "dau_bep",
+      "order": 1,
+      "name": "Kiểm tra nguyên liệu",
+      "description": "Kiểm tra nguyên liệu: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra nguyên liệu — xử lý suất ăn theo yêu cầu quản lý.",
+        "Kiểm tra nguyên liệu — đảm bảo đúng quy trình với từng suất ăn.",
+        "Kiểm tra nguyên liệu — làm cẩn thận để suất ăn đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dau_bep_t2",
+      "jobId": "dau_bep",
+      "order": 2,
+      "name": "Sơ chế thực phẩm",
+      "description": "Sơ chế thực phẩm: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Sơ chế thực phẩm — xử lý suất ăn theo yêu cầu quản lý.",
+        "Sơ chế thực phẩm — đảm bảo đúng quy trình với từng suất ăn.",
+        "Sơ chế thực phẩm — làm cẩn thận để suất ăn đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dau_bep_t3",
+      "jobId": "dau_bep",
+      "order": 3,
+      "name": "Nấu món chính",
+      "description": "Nấu món chính: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nấu món chính — xử lý suất ăn theo yêu cầu quản lý.",
+        "Nấu món chính — đảm bảo đúng quy trình với từng suất ăn.",
+        "Nấu món chính — làm cẩn thận để suất ăn đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dau_bep_t4",
+      "jobId": "dau_bep",
+      "order": 4,
+      "name": "Nêm nếm và trình bày",
+      "description": "Nêm nếm và trình bày: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nêm nếm và trình bày — xử lý suất ăn theo yêu cầu quản lý.",
+        "Nêm nếm và trình bày — đảm bảo đúng quy trình với từng suất ăn.",
+        "Nêm nếm và trình bày — làm cẩn thận để suất ăn đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dau_bep_t5",
+      "jobId": "dau_bep",
+      "order": 5,
+      "name": "Kiểm soát vệ sinh bếp",
+      "description": "Kiểm soát vệ sinh bếp: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm soát vệ sinh bếp — xử lý suất ăn theo yêu cầu quản lý.",
+        "Kiểm soát vệ sinh bếp — đảm bảo đúng quy trình với từng suất ăn.",
+        "Kiểm soát vệ sinh bếp — làm cẩn thận để suất ăn đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_banh_t1",
+      "jobId": "tho_banh",
+      "order": 1,
+      "name": "Cân đo nguyên liệu",
+      "description": "Cân đo nguyên liệu: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Cân đo nguyên liệu — xử lý mẻ bánh theo yêu cầu quản lý.",
+        "Cân đo nguyên liệu — đảm bảo đúng quy trình với từng mẻ bánh.",
+        "Cân đo nguyên liệu — làm cẩn thận để mẻ bánh đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_banh_t2",
+      "jobId": "tho_banh",
+      "order": 2,
+      "name": "Nhào và ủ bột",
+      "description": "Nhào và ủ bột: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nhào và ủ bột — xử lý mẻ bánh theo yêu cầu quản lý.",
+        "Nhào và ủ bột — đảm bảo đúng quy trình với từng mẻ bánh.",
+        "Nhào và ủ bột — làm cẩn thận để mẻ bánh đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_banh_t3",
+      "jobId": "tho_banh",
+      "order": 3,
+      "name": "Tạo hình bánh",
+      "description": "Tạo hình bánh: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tạo hình bánh — xử lý mẻ bánh theo yêu cầu quản lý.",
+        "Tạo hình bánh — đảm bảo đúng quy trình với từng mẻ bánh.",
+        "Tạo hình bánh — làm cẩn thận để mẻ bánh đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_banh_t4",
+      "jobId": "tho_banh",
+      "order": 4,
+      "name": "Nướng đúng nhiệt độ",
+      "description": "Nướng đúng nhiệt độ: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nướng đúng nhiệt độ — xử lý mẻ bánh theo yêu cầu quản lý.",
+        "Nướng đúng nhiệt độ — đảm bảo đúng quy trình với từng mẻ bánh.",
+        "Nướng đúng nhiệt độ — làm cẩn thận để mẻ bánh đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "tho_banh_t5",
+      "jobId": "tho_banh",
+      "order": 5,
+      "name": "Đóng gói bánh thành phẩm",
+      "description": "Đóng gói bánh thành phẩm: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đóng gói bánh thành phẩm — xử lý mẻ bánh theo yêu cầu quản lý.",
+        "Đóng gói bánh thành phẩm — đảm bảo đúng quy trình với từng mẻ bánh.",
+        "Đóng gói bánh thành phẩm — làm cẩn thận để mẻ bánh đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_khach_san_t1",
+      "jobId": "nv_khach_san",
+      "order": 1,
+      "name": "Đón khách tại sảnh",
+      "description": "Đón khách tại sảnh: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đón khách tại sảnh — xử lý phòng theo yêu cầu quản lý.",
+        "Đón khách tại sảnh — đảm bảo đúng quy trình với từng phòng.",
+        "Đón khách tại sảnh — làm cẩn thận để phòng đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_khach_san_t2",
+      "jobId": "nv_khach_san",
+      "order": 2,
+      "name": "Làm thủ tục nhận phòng",
+      "description": "Làm thủ tục nhận phòng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Làm thủ tục nhận phòng — xử lý phòng theo yêu cầu quản lý.",
+        "Làm thủ tục nhận phòng — đảm bảo đúng quy trình với từng phòng.",
+        "Làm thủ tục nhận phòng — làm cẩn thận để phòng đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_khach_san_t3",
+      "jobId": "nv_khach_san",
+      "order": 3,
+      "name": "Kiểm tra phòng sau khi trả",
+      "description": "Kiểm tra phòng sau khi trả: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra phòng sau khi trả — xử lý phòng theo yêu cầu quản lý.",
+        "Kiểm tra phòng sau khi trả — đảm bảo đúng quy trình với từng phòng.",
+        "Kiểm tra phòng sau khi trả — làm cẩn thận để phòng đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_khach_san_t4",
+      "jobId": "nv_khach_san",
+      "order": 4,
+      "name": "Hỗ trợ yêu cầu của khách",
+      "description": "Hỗ trợ yêu cầu của khách: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Hỗ trợ yêu cầu của khách — xử lý phòng theo yêu cầu quản lý.",
+        "Hỗ trợ yêu cầu của khách — đảm bảo đúng quy trình với từng phòng.",
+        "Hỗ trợ yêu cầu của khách — làm cẩn thận để phòng đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_khach_san_t5",
+      "jobId": "nv_khach_san",
+      "order": 5,
+      "name": "Bàn giao ca lễ tân",
+      "description": "Bàn giao ca lễ tân: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Bàn giao ca lễ tân — xử lý phòng theo yêu cầu quản lý.",
+        "Bàn giao ca lễ tân — đảm bảo đúng quy trình với từng phòng.",
+        "Bàn giao ca lễ tân — làm cẩn thận để phòng đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_bds_t1",
+      "jobId": "nv_bds",
+      "order": 1,
+      "name": "Cập nhật danh sách nhà bán",
+      "description": "Cập nhật danh sách nhà bán: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Cập nhật danh sách nhà bán — xử lý căn nhà theo yêu cầu quản lý.",
+        "Cập nhật danh sách nhà bán — đảm bảo đúng quy trình với từng căn nhà.",
+        "Cập nhật danh sách nhà bán — làm cẩn thận để căn nhà đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_bds_t2",
+      "jobId": "nv_bds",
+      "order": 2,
+      "name": "Gọi khách tiềm năng",
+      "description": "Gọi khách tiềm năng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Gọi khách tiềm năng — xử lý căn nhà theo yêu cầu quản lý.",
+        "Gọi khách tiềm năng — đảm bảo đúng quy trình với từng căn nhà.",
+        "Gọi khách tiềm năng — làm cẩn thận để căn nhà đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_bds_t3",
+      "jobId": "nv_bds",
+      "order": 3,
+      "name": "Dẫn khách đi xem nhà",
+      "description": "Dẫn khách đi xem nhà: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Dẫn khách đi xem nhà — xử lý căn nhà theo yêu cầu quản lý.",
+        "Dẫn khách đi xem nhà — đảm bảo đúng quy trình với từng căn nhà.",
+        "Dẫn khách đi xem nhà — làm cẩn thận để căn nhà đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_bds_t4",
+      "jobId": "nv_bds",
+      "order": 4,
+      "name": "Kiểm tra giấy tờ pháp lý",
+      "description": "Kiểm tra giấy tờ pháp lý: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra giấy tờ pháp lý — xử lý căn nhà theo yêu cầu quản lý.",
+        "Kiểm tra giấy tờ pháp lý — đảm bảo đúng quy trình với từng căn nhà.",
+        "Kiểm tra giấy tờ pháp lý — làm cẩn thận để căn nhà đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_bds_t5",
+      "jobId": "nv_bds",
+      "order": 5,
+      "name": "Soạn hợp đồng đặt cọc",
+      "description": "Soạn hợp đồng đặt cọc: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Soạn hợp đồng đặt cọc — xử lý căn nhà theo yêu cầu quản lý.",
+        "Soạn hợp đồng đặt cọc — đảm bảo đúng quy trình với từng căn nhà.",
+        "Soạn hợp đồng đặt cọc — làm cẩn thận để căn nhà đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_marketing_t1",
+      "jobId": "nv_marketing",
+      "order": 1,
+      "name": "Nghiên cứu thị trường",
+      "description": "Nghiên cứu thị trường: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nghiên cứu thị trường — xử lý chiến dịch theo yêu cầu quản lý.",
+        "Nghiên cứu thị trường — đảm bảo đúng quy trình với từng chiến dịch.",
+        "Nghiên cứu thị trường — làm cẩn thận để chiến dịch đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_marketing_t2",
+      "jobId": "nv_marketing",
+      "order": 2,
+      "name": "Lên lịch nội dung",
+      "description": "Lên lịch nội dung: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Lên lịch nội dung — xử lý chiến dịch theo yêu cầu quản lý.",
+        "Lên lịch nội dung — đảm bảo đúng quy trình với từng chiến dịch.",
+        "Lên lịch nội dung — làm cẩn thận để chiến dịch đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_marketing_t3",
+      "jobId": "nv_marketing",
+      "order": 3,
+      "name": "Chạy quảng cáo thử",
+      "description": "Chạy quảng cáo thử: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chạy quảng cáo thử — xử lý chiến dịch theo yêu cầu quản lý.",
+        "Chạy quảng cáo thử — đảm bảo đúng quy trình với từng chiến dịch.",
+        "Chạy quảng cáo thử — làm cẩn thận để chiến dịch đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_marketing_t4",
+      "jobId": "nv_marketing",
+      "order": 4,
+      "name": "Phân tích hiệu quả chiến dịch",
+      "description": "Phân tích hiệu quả chiến dịch: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Phân tích hiệu quả chiến dịch — xử lý chiến dịch theo yêu cầu quản lý.",
+        "Phân tích hiệu quả chiến dịch — đảm bảo đúng quy trình với từng chiến dịch.",
+        "Phân tích hiệu quả chiến dịch — làm cẩn thận để chiến dịch đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nv_marketing_t5",
+      "jobId": "nv_marketing",
+      "order": 5,
+      "name": "Báo cáo cho trưởng nhóm",
+      "description": "Báo cáo cho trưởng nhóm: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Báo cáo cho trưởng nhóm — xử lý chiến dịch theo yêu cầu quản lý.",
+        "Báo cáo cho trưởng nhóm — đảm bảo đúng quy trình với từng chiến dịch.",
+        "Báo cáo cho trưởng nhóm — làm cẩn thận để chiến dịch đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_ly_cua_hang_t1",
+      "jobId": "quan_ly_cua_hang",
+      "order": 1,
+      "name": "Họp đầu ca với nhân viên",
+      "description": "Họp đầu ca với nhân viên: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Họp đầu ca với nhân viên — xử lý ca trực theo yêu cầu quản lý.",
+        "Họp đầu ca với nhân viên — đảm bảo đúng quy trình với từng ca trực.",
+        "Họp đầu ca với nhân viên — làm cẩn thận để ca trực đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_ly_cua_hang_t2",
+      "jobId": "quan_ly_cua_hang",
+      "order": 2,
+      "name": "Phân công công việc",
+      "description": "Phân công công việc: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Phân công công việc — xử lý ca trực theo yêu cầu quản lý.",
+        "Phân công công việc — đảm bảo đúng quy trình với từng ca trực.",
+        "Phân công công việc — làm cẩn thận để ca trực đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_ly_cua_hang_t3",
+      "jobId": "quan_ly_cua_hang",
+      "order": 3,
+      "name": "Kiểm soát tồn kho",
+      "description": "Kiểm soát tồn kho: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm soát tồn kho — xử lý ca trực theo yêu cầu quản lý.",
+        "Kiểm soát tồn kho — đảm bảo đúng quy trình với từng ca trực.",
+        "Kiểm soát tồn kho — làm cẩn thận để ca trực đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_ly_cua_hang_t4",
+      "jobId": "quan_ly_cua_hang",
+      "order": 4,
+      "name": "Giải quyết sự cố khách hàng",
+      "description": "Giải quyết sự cố khách hàng: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Giải quyết sự cố khách hàng — xử lý ca trực theo yêu cầu quản lý.",
+        "Giải quyết sự cố khách hàng — đảm bảo đúng quy trình với từng ca trực.",
+        "Giải quyết sự cố khách hàng — làm cẩn thận để ca trực đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_ly_cua_hang_t5",
+      "jobId": "quan_ly_cua_hang",
+      "order": 5,
+      "name": "Chốt doanh thu và báo cáo",
+      "description": "Chốt doanh thu và báo cáo: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chốt doanh thu và báo cáo — xử lý ca trực theo yêu cầu quản lý.",
+        "Chốt doanh thu và báo cáo — đảm bảo đúng quy trình với từng ca trực.",
+        "Chốt doanh thu và báo cáo — làm cẩn thận để ca trực đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ktv_may_tinh_t1",
+      "jobId": "ktv_may_tinh",
+      "order": 1,
+      "name": "Tiếp nhận máy lỗi",
+      "description": "Tiếp nhận máy lỗi: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tiếp nhận máy lỗi — xử lý máy tính theo yêu cầu quản lý.",
+        "Tiếp nhận máy lỗi — đảm bảo đúng quy trình với từng máy tính.",
+        "Tiếp nhận máy lỗi — làm cẩn thận để máy tính đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ktv_may_tinh_t2",
+      "jobId": "ktv_may_tinh",
+      "order": 2,
+      "name": "Chẩn đoán phần cứng",
+      "description": "Chẩn đoán phần cứng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chẩn đoán phần cứng — xử lý máy tính theo yêu cầu quản lý.",
+        "Chẩn đoán phần cứng — đảm bảo đúng quy trình với từng máy tính.",
+        "Chẩn đoán phần cứng — làm cẩn thận để máy tính đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ktv_may_tinh_t3",
+      "jobId": "ktv_may_tinh",
+      "order": 3,
+      "name": "Cài đặt hệ điều hành",
+      "description": "Cài đặt hệ điều hành: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Cài đặt hệ điều hành — xử lý máy tính theo yêu cầu quản lý.",
+        "Cài đặt hệ điều hành — đảm bảo đúng quy trình với từng máy tính.",
+        "Cài đặt hệ điều hành — làm cẩn thận để máy tính đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ktv_may_tinh_t4",
+      "jobId": "ktv_may_tinh",
+      "order": 4,
+      "name": "Vệ sinh và thay keo tản nhiệt",
+      "description": "Vệ sinh và thay keo tản nhiệt: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Vệ sinh và thay keo tản nhiệt — xử lý máy tính theo yêu cầu quản lý.",
+        "Vệ sinh và thay keo tản nhiệt — đảm bảo đúng quy trình với từng máy tính.",
+        "Vệ sinh và thay keo tản nhiệt — làm cẩn thận để máy tính đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ktv_may_tinh_t5",
+      "jobId": "ktv_may_tinh",
+      "order": 5,
+      "name": "Bàn giao máy cho khách",
+      "description": "Bàn giao máy cho khách: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Bàn giao máy cho khách — xử lý máy tính theo yêu cầu quản lý.",
+        "Bàn giao máy cho khách — đảm bảo đúng quy trình với từng máy tính.",
+        "Bàn giao máy cho khách — làm cẩn thận để máy tính đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "lap_trinh_vien_t1",
+      "jobId": "lap_trinh_vien",
+      "order": 1,
+      "name": "Đọc yêu cầu công việc",
+      "description": "Đọc yêu cầu công việc: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đọc yêu cầu công việc — xử lý chức năng theo yêu cầu quản lý.",
+        "Đọc yêu cầu công việc — đảm bảo đúng quy trình với từng chức năng.",
+        "Đọc yêu cầu công việc — làm cẩn thận để chức năng đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "lap_trinh_vien_t2",
+      "jobId": "lap_trinh_vien",
+      "order": 2,
+      "name": "Viết mã chức năng mới",
+      "description": "Viết mã chức năng mới: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Viết mã chức năng mới — xử lý chức năng theo yêu cầu quản lý.",
+        "Viết mã chức năng mới — đảm bảo đúng quy trình với từng chức năng.",
+        "Viết mã chức năng mới — làm cẩn thận để chức năng đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "lap_trinh_vien_t3",
+      "jobId": "lap_trinh_vien",
+      "order": 3,
+      "name": "Sửa lỗi được giao",
+      "description": "Sửa lỗi được giao: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Sửa lỗi được giao — xử lý chức năng theo yêu cầu quản lý.",
+        "Sửa lỗi được giao — đảm bảo đúng quy trình với từng chức năng.",
+        "Sửa lỗi được giao — làm cẩn thận để chức năng đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "lap_trinh_vien_t4",
+      "jobId": "lap_trinh_vien",
+      "order": 4,
+      "name": "Review mã của đồng đội",
+      "description": "Review mã của đồng đội: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Review mã của đồng đội — xử lý chức năng theo yêu cầu quản lý.",
+        "Review mã của đồng đội — đảm bảo đúng quy trình với từng chức năng.",
+        "Review mã của đồng đội — làm cẩn thận để chức năng đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "lap_trinh_vien_t5",
+      "jobId": "lap_trinh_vien",
+      "order": 5,
+      "name": "Đẩy mã lên kho chung",
+      "description": "Đẩy mã lên kho chung: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đẩy mã lên kho chung — xử lý chức năng theo yêu cầu quản lý.",
+        "Đẩy mã lên kho chung — đảm bảo đúng quy trình với từng chức năng.",
+        "Đẩy mã lên kho chung — làm cẩn thận để chức năng đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_web_t1",
+      "jobId": "dev_web",
+      "order": 1,
+      "name": "Dựng khung HTML",
+      "description": "Dựng khung HTML: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Dựng khung HTML — xử lý trang web theo yêu cầu quản lý.",
+        "Dựng khung HTML — đảm bảo đúng quy trình với từng trang web.",
+        "Dựng khung HTML — làm cẩn thận để trang web đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_web_t2",
+      "jobId": "dev_web",
+      "order": 2,
+      "name": "Tinh chỉnh CSS responsive",
+      "description": "Tinh chỉnh CSS responsive: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tinh chỉnh CSS responsive — xử lý trang web theo yêu cầu quản lý.",
+        "Tinh chỉnh CSS responsive — đảm bảo đúng quy trình với từng trang web.",
+        "Tinh chỉnh CSS responsive — làm cẩn thận để trang web đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_web_t3",
+      "jobId": "dev_web",
+      "order": 3,
+      "name": "Viết JavaScript tương tác",
+      "description": "Viết JavaScript tương tác: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Viết JavaScript tương tác — xử lý trang web theo yêu cầu quản lý.",
+        "Viết JavaScript tương tác — đảm bảo đúng quy trình với từng trang web.",
+        "Viết JavaScript tương tác — làm cẩn thận để trang web đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_web_t4",
+      "jobId": "dev_web",
+      "order": 4,
+      "name": "Kết nối API",
+      "description": "Kết nối API: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kết nối API — xử lý trang web theo yêu cầu quản lý.",
+        "Kết nối API — đảm bảo đúng quy trình với từng trang web.",
+        "Kết nối API — làm cẩn thận để trang web đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_web_t5",
+      "jobId": "dev_web",
+      "order": 5,
+      "name": "Kiểm thử trên nhiều trình duyệt",
+      "description": "Kiểm thử trên nhiều trình duyệt: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm thử trên nhiều trình duyệt — xử lý trang web theo yêu cầu quản lý.",
+        "Kiểm thử trên nhiều trình duyệt — đảm bảo đúng quy trình với từng trang web.",
+        "Kiểm thử trên nhiều trình duyệt — làm cẩn thận để trang web đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_app_t1",
+      "jobId": "dev_app",
+      "order": 1,
+      "name": "Thiết lập dự án ứng dụng",
+      "description": "Thiết lập dự án ứng dụng: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thiết lập dự án ứng dụng — xử lý màn hình ứng dụng theo yêu cầu quản lý.",
+        "Thiết lập dự án ứng dụng — đảm bảo đúng quy trình với từng màn hình ứng dụng.",
+        "Thiết lập dự án ứng dụng — làm cẩn thận để màn hình ứng dụng đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_app_t2",
+      "jobId": "dev_app",
+      "order": 2,
+      "name": "Viết màn hình mới",
+      "description": "Viết màn hình mới: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Viết màn hình mới — xử lý màn hình ứng dụng theo yêu cầu quản lý.",
+        "Viết màn hình mới — đảm bảo đúng quy trình với từng màn hình ứng dụng.",
+        "Viết màn hình mới — làm cẩn thận để màn hình ứng dụng đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_app_t3",
+      "jobId": "dev_app",
+      "order": 3,
+      "name": "Gắn dữ liệu và API",
+      "description": "Gắn dữ liệu và API: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Gắn dữ liệu và API — xử lý màn hình ứng dụng theo yêu cầu quản lý.",
+        "Gắn dữ liệu và API — đảm bảo đúng quy trình với từng màn hình ứng dụng.",
+        "Gắn dữ liệu và API — làm cẩn thận để màn hình ứng dụng đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_app_t4",
+      "jobId": "dev_app",
+      "order": 4,
+      "name": "Kiểm thử trên thiết bị",
+      "description": "Kiểm thử trên thiết bị: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm thử trên thiết bị — xử lý màn hình ứng dụng theo yêu cầu quản lý.",
+        "Kiểm thử trên thiết bị — đảm bảo đúng quy trình với từng màn hình ứng dụng.",
+        "Kiểm thử trên thiết bị — làm cẩn thận để màn hình ứng dụng đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "dev_app_t5",
+      "jobId": "dev_app",
+      "order": 5,
+      "name": "Đóng gói bản phát hành",
+      "description": "Đóng gói bản phát hành: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đóng gói bản phát hành — xử lý màn hình ứng dụng theo yêu cầu quản lý.",
+        "Đóng gói bản phát hành — đảm bảo đúng quy trình với từng màn hình ứng dụng.",
+        "Đóng gói bản phát hành — làm cẩn thận để màn hình ứng dụng đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_ui_ux_t1",
+      "jobId": "thiet_ke_ui_ux",
+      "order": 1,
+      "name": "Phỏng vấn người dùng",
+      "description": "Phỏng vấn người dùng: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Phỏng vấn người dùng — xử lý bản thiết kế theo yêu cầu quản lý.",
+        "Phỏng vấn người dùng — đảm bảo đúng quy trình với từng bản thiết kế.",
+        "Phỏng vấn người dùng — làm cẩn thận để bản thiết kế đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_ui_ux_t2",
+      "jobId": "thiet_ke_ui_ux",
+      "order": 2,
+      "name": "Phác thảo luồng sử dụng",
+      "description": "Phác thảo luồng sử dụng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Phác thảo luồng sử dụng — xử lý bản thiết kế theo yêu cầu quản lý.",
+        "Phác thảo luồng sử dụng — đảm bảo đúng quy trình với từng bản thiết kế.",
+        "Phác thảo luồng sử dụng — làm cẩn thận để bản thiết kế đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_ui_ux_t3",
+      "jobId": "thiet_ke_ui_ux",
+      "order": 3,
+      "name": "Thiết kế màn hình chính",
+      "description": "Thiết kế màn hình chính: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thiết kế màn hình chính — xử lý bản thiết kế theo yêu cầu quản lý.",
+        "Thiết kế màn hình chính — đảm bảo đúng quy trình với từng bản thiết kế.",
+        "Thiết kế màn hình chính — làm cẩn thận để bản thiết kế đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_ui_ux_t4",
+      "jobId": "thiet_ke_ui_ux",
+      "order": 4,
+      "name": "Làm bản mẫu tương tác",
+      "description": "Làm bản mẫu tương tác: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Làm bản mẫu tương tác — xử lý bản thiết kế theo yêu cầu quản lý.",
+        "Làm bản mẫu tương tác — đảm bảo đúng quy trình với từng bản thiết kế.",
+        "Làm bản mẫu tương tác — làm cẩn thận để bản thiết kế đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_ui_ux_t5",
+      "jobId": "thiet_ke_ui_ux",
+      "order": 5,
+      "name": "Kiểm thử khả năng sử dụng",
+      "description": "Kiểm thử khả năng sử dụng: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm thử khả năng sử dụng — xử lý bản thiết kế theo yêu cầu quản lý.",
+        "Kiểm thử khả năng sử dụng — đảm bảo đúng quy trình với từng bản thiết kế.",
+        "Kiểm thử khả năng sử dụng — làm cẩn thận để bản thiết kế đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_he_thong_t1",
+      "jobId": "quan_tri_he_thong",
+      "order": 1,
+      "name": "Kiểm tra giám sát hệ thống",
+      "description": "Kiểm tra giám sát hệ thống: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra giám sát hệ thống — xử lý máy chủ theo yêu cầu quản lý.",
+        "Kiểm tra giám sát hệ thống — đảm bảo đúng quy trình với từng máy chủ.",
+        "Kiểm tra giám sát hệ thống — làm cẩn thận để máy chủ đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_he_thong_t2",
+      "jobId": "quan_tri_he_thong",
+      "order": 2,
+      "name": "Cập nhật bản vá",
+      "description": "Cập nhật bản vá: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Cập nhật bản vá — xử lý máy chủ theo yêu cầu quản lý.",
+        "Cập nhật bản vá — đảm bảo đúng quy trình với từng máy chủ.",
+        "Cập nhật bản vá — làm cẩn thận để máy chủ đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_he_thong_t3",
+      "jobId": "quan_tri_he_thong",
+      "order": 3,
+      "name": "Sao lưu dữ liệu",
+      "description": "Sao lưu dữ liệu: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Sao lưu dữ liệu — xử lý máy chủ theo yêu cầu quản lý.",
+        "Sao lưu dữ liệu — đảm bảo đúng quy trình với từng máy chủ.",
+        "Sao lưu dữ liệu — làm cẩn thận để máy chủ đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_he_thong_t4",
+      "jobId": "quan_tri_he_thong",
+      "order": 4,
+      "name": "Xử lý sự cố máy chủ",
+      "description": "Xử lý sự cố máy chủ: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xử lý sự cố máy chủ — xử lý máy chủ theo yêu cầu quản lý.",
+        "Xử lý sự cố máy chủ — đảm bảo đúng quy trình với từng máy chủ.",
+        "Xử lý sự cố máy chủ — làm cẩn thận để máy chủ đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_he_thong_t5",
+      "jobId": "quan_tri_he_thong",
+      "order": 5,
+      "name": "Tối ưu tài nguyên",
+      "description": "Tối ưu tài nguyên: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tối ưu tài nguyên — xử lý máy chủ theo yêu cầu quản lý.",
+        "Tối ưu tài nguyên — đảm bảo đúng quy trình với từng máy chủ.",
+        "Tối ưu tài nguyên — làm cẩn thận để máy chủ đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phan_tich_du_lieu_t1",
+      "jobId": "phan_tich_du_lieu",
+      "order": 1,
+      "name": "Thu thập dữ liệu thô",
+      "description": "Thu thập dữ liệu thô: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thu thập dữ liệu thô — xử lý bộ dữ liệu theo yêu cầu quản lý.",
+        "Thu thập dữ liệu thô — đảm bảo đúng quy trình với từng bộ dữ liệu.",
+        "Thu thập dữ liệu thô — làm cẩn thận để bộ dữ liệu đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phan_tich_du_lieu_t2",
+      "jobId": "phan_tich_du_lieu",
+      "order": 2,
+      "name": "Làm sạch dữ liệu",
+      "description": "Làm sạch dữ liệu: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Làm sạch dữ liệu — xử lý bộ dữ liệu theo yêu cầu quản lý.",
+        "Làm sạch dữ liệu — đảm bảo đúng quy trình với từng bộ dữ liệu.",
+        "Làm sạch dữ liệu — làm cẩn thận để bộ dữ liệu đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phan_tich_du_lieu_t3",
+      "jobId": "phan_tich_du_lieu",
+      "order": 3,
+      "name": "Tính toán chỉ số",
+      "description": "Tính toán chỉ số: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tính toán chỉ số — xử lý bộ dữ liệu theo yêu cầu quản lý.",
+        "Tính toán chỉ số — đảm bảo đúng quy trình với từng bộ dữ liệu.",
+        "Tính toán chỉ số — làm cẩn thận để bộ dữ liệu đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phan_tich_du_lieu_t4",
+      "jobId": "phan_tich_du_lieu",
+      "order": 4,
+      "name": "Dựng biểu đồ báo cáo",
+      "description": "Dựng biểu đồ báo cáo: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Dựng biểu đồ báo cáo — xử lý bộ dữ liệu theo yêu cầu quản lý.",
+        "Dựng biểu đồ báo cáo — đảm bảo đúng quy trình với từng bộ dữ liệu.",
+        "Dựng biểu đồ báo cáo — làm cẩn thận để bộ dữ liệu đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phan_tich_du_lieu_t5",
+      "jobId": "phan_tich_du_lieu",
+      "order": 5,
+      "name": "Trình bày kết luận",
+      "description": "Trình bày kết luận: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Trình bày kết luận — xử lý bộ dữ liệu theo yêu cầu quản lý.",
+        "Trình bày kết luận — đảm bảo đúng quy trình với từng bộ dữ liệu.",
+        "Trình bày kết luận — làm cẩn thận để bộ dữ liệu đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_csdl_t1",
+      "jobId": "quan_tri_csdl",
+      "order": 1,
+      "name": "Giám sát hiệu năng CSDL",
+      "description": "Giám sát hiệu năng CSDL: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Giám sát hiệu năng CSDL — xử lý bảng dữ liệu theo yêu cầu quản lý.",
+        "Giám sát hiệu năng CSDL — đảm bảo đúng quy trình với từng bảng dữ liệu.",
+        "Giám sát hiệu năng CSDL — làm cẩn thận để bảng dữ liệu đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_csdl_t2",
+      "jobId": "quan_tri_csdl",
+      "order": 2,
+      "name": "Tối ưu truy vấn chậm",
+      "description": "Tối ưu truy vấn chậm: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tối ưu truy vấn chậm — xử lý bảng dữ liệu theo yêu cầu quản lý.",
+        "Tối ưu truy vấn chậm — đảm bảo đúng quy trình với từng bảng dữ liệu.",
+        "Tối ưu truy vấn chậm — làm cẩn thận để bảng dữ liệu đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_csdl_t3",
+      "jobId": "quan_tri_csdl",
+      "order": 3,
+      "name": "Sao lưu và phục hồi",
+      "description": "Sao lưu và phục hồi: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Sao lưu và phục hồi — xử lý bảng dữ liệu theo yêu cầu quản lý.",
+        "Sao lưu và phục hồi — đảm bảo đúng quy trình với từng bảng dữ liệu.",
+        "Sao lưu và phục hồi — làm cẩn thận để bảng dữ liệu đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_csdl_t4",
+      "jobId": "quan_tri_csdl",
+      "order": 4,
+      "name": "Phân quyền truy cập",
+      "description": "Phân quyền truy cập: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Phân quyền truy cập — xử lý bảng dữ liệu theo yêu cầu quản lý.",
+        "Phân quyền truy cập — đảm bảo đúng quy trình với từng bảng dữ liệu.",
+        "Phân quyền truy cập — làm cẩn thận để bảng dữ liệu đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "quan_tri_csdl_t5",
+      "jobId": "quan_tri_csdl",
+      "order": 5,
+      "name": "Kiểm tra tính toàn vẹn",
+      "description": "Kiểm tra tính toàn vẹn: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra tính toàn vẹn — xử lý bảng dữ liệu theo yêu cầu quản lý.",
+        "Kiểm tra tính toàn vẹn — đảm bảo đúng quy trình với từng bảng dữ liệu.",
+        "Kiểm tra tính toàn vẹn — làm cẩn thận để bảng dữ liệu đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "chuyen_vien_bao_mat_t1",
+      "jobId": "chuyen_vien_bao_mat",
+      "order": 1,
+      "name": "Rà soát nhật ký truy cập",
+      "description": "Rà soát nhật ký truy cập: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Rà soát nhật ký truy cập — xử lý lỗ hổng theo yêu cầu quản lý.",
+        "Rà soát nhật ký truy cập — đảm bảo đúng quy trình với từng lỗ hổng.",
+        "Rà soát nhật ký truy cập — làm cẩn thận để lỗ hổng đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "chuyen_vien_bao_mat_t2",
+      "jobId": "chuyen_vien_bao_mat",
+      "order": 2,
+      "name": "Quét lỗ hổng hệ thống",
+      "description": "Quét lỗ hổng hệ thống: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Quét lỗ hổng hệ thống — xử lý lỗ hổng theo yêu cầu quản lý.",
+        "Quét lỗ hổng hệ thống — đảm bảo đúng quy trình với từng lỗ hổng.",
+        "Quét lỗ hổng hệ thống — làm cẩn thận để lỗ hổng đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "chuyen_vien_bao_mat_t3",
+      "jobId": "chuyen_vien_bao_mat",
+      "order": 3,
+      "name": "Phân tích sự cố bảo mật",
+      "description": "Phân tích sự cố bảo mật: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Phân tích sự cố bảo mật — xử lý lỗ hổng theo yêu cầu quản lý.",
+        "Phân tích sự cố bảo mật — đảm bảo đúng quy trình với từng lỗ hổng.",
+        "Phân tích sự cố bảo mật — làm cẩn thận để lỗ hổng đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "chuyen_vien_bao_mat_t4",
+      "jobId": "chuyen_vien_bao_mat",
+      "order": 4,
+      "name": "Vá lỗ hổng",
+      "description": "Vá lỗ hổng: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Vá lỗ hổng — xử lý lỗ hổng theo yêu cầu quản lý.",
+        "Vá lỗ hổng — đảm bảo đúng quy trình với từng lỗ hổng.",
+        "Vá lỗ hổng — làm cẩn thận để lỗ hổng đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "chuyen_vien_bao_mat_t5",
+      "jobId": "chuyen_vien_bao_mat",
+      "order": 5,
+      "name": "Lập báo cáo an toàn",
+      "description": "Lập báo cáo an toàn: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Lập báo cáo an toàn — xử lý lỗ hổng theo yêu cầu quản lý.",
+        "Lập báo cáo an toàn — đảm bảo đúng quy trình với từng lỗ hổng.",
+        "Lập báo cáo an toàn — làm cẩn thận để lỗ hổng đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_ai_t1",
+      "jobId": "ky_su_ai",
+      "order": 1,
+      "name": "Chuẩn bị dữ liệu huấn luyện",
+      "description": "Chuẩn bị dữ liệu huấn luyện: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chuẩn bị dữ liệu huấn luyện — xử lý mô hình theo yêu cầu quản lý.",
+        "Chuẩn bị dữ liệu huấn luyện — đảm bảo đúng quy trình với từng mô hình.",
+        "Chuẩn bị dữ liệu huấn luyện — làm cẩn thận để mô hình đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_ai_t2",
+      "jobId": "ky_su_ai",
+      "order": 2,
+      "name": "Huấn luyện mô hình",
+      "description": "Huấn luyện mô hình: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Huấn luyện mô hình — xử lý mô hình theo yêu cầu quản lý.",
+        "Huấn luyện mô hình — đảm bảo đúng quy trình với từng mô hình.",
+        "Huấn luyện mô hình — làm cẩn thận để mô hình đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_ai_t3",
+      "jobId": "ky_su_ai",
+      "order": 3,
+      "name": "Đánh giá độ chính xác",
+      "description": "Đánh giá độ chính xác: hoàn thành 3 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đánh giá độ chính xác — xử lý mô hình theo yêu cầu quản lý.",
+        "Đánh giá độ chính xác — đảm bảo đúng quy trình với từng mô hình.",
+        "Đánh giá độ chính xác — làm cẩn thận để mô hình đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 3,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_ai_t4",
+      "jobId": "ky_su_ai",
+      "order": 4,
+      "name": "Tinh chỉnh tham số",
+      "description": "Tinh chỉnh tham số: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tinh chỉnh tham số — xử lý mô hình theo yêu cầu quản lý.",
+        "Tinh chỉnh tham số — đảm bảo đúng quy trình với từng mô hình.",
+        "Tinh chỉnh tham số — làm cẩn thận để mô hình đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_ai_t5",
+      "jobId": "ky_su_ai",
+      "order": 5,
+      "name": "Triển khai mô hình thực tế",
+      "description": "Triển khai mô hình thực tế: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Triển khai mô hình thực tế — xử lý mô hình theo yêu cầu quản lý.",
+        "Triển khai mô hình thực tế — đảm bảo đúng quy trình với từng mô hình.",
+        "Triển khai mô hình thực tế — làm cẩn thận để mô hình đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_do_hoa_t1",
+      "jobId": "thiet_ke_do_hoa",
+      "order": 1,
+      "name": "Nhận brief khách hàng",
+      "description": "Nhận brief khách hàng: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nhận brief khách hàng — xử lý banner theo yêu cầu quản lý.",
+        "Nhận brief khách hàng — đảm bảo đúng quy trình với từng banner.",
+        "Nhận brief khách hàng — làm cẩn thận để banner đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_do_hoa_t2",
+      "jobId": "thiet_ke_do_hoa",
+      "order": 2,
+      "name": "Phác thảo ý tưởng",
+      "description": "Phác thảo ý tưởng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Phác thảo ý tưởng — xử lý banner theo yêu cầu quản lý.",
+        "Phác thảo ý tưởng — đảm bảo đúng quy trình với từng banner.",
+        "Phác thảo ý tưởng — làm cẩn thận để banner đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_do_hoa_t3",
+      "jobId": "thiet_ke_do_hoa",
+      "order": 3,
+      "name": "Thiết kế bản chính",
+      "description": "Thiết kế bản chính: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thiết kế bản chính — xử lý banner theo yêu cầu quản lý.",
+        "Thiết kế bản chính — đảm bảo đúng quy trình với từng banner.",
+        "Thiết kế bản chính — làm cẩn thận để banner đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_do_hoa_t4",
+      "jobId": "thiet_ke_do_hoa",
+      "order": 4,
+      "name": "Chỉnh sửa theo phản hồi",
+      "description": "Chỉnh sửa theo phản hồi: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chỉnh sửa theo phản hồi — xử lý banner theo yêu cầu quản lý.",
+        "Chỉnh sửa theo phản hồi — đảm bảo đúng quy trình với từng banner.",
+        "Chỉnh sửa theo phản hồi — làm cẩn thận để banner đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "thiet_ke_do_hoa_t5",
+      "jobId": "thiet_ke_do_hoa",
+      "order": 5,
+      "name": "Xuất file bàn giao",
+      "description": "Xuất file bàn giao: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xuất file bàn giao — xử lý banner theo yêu cầu quản lý.",
+        "Xuất file bàn giao — đảm bảo đúng quy trình với từng banner.",
+        "Xuất file bàn giao — làm cẩn thận để banner đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bien_tap_video_t1",
+      "jobId": "bien_tap_video",
+      "order": 1,
+      "name": "Nhập và sắp xếp footage",
+      "description": "Nhập và sắp xếp footage: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nhập và sắp xếp footage — xử lý clip theo yêu cầu quản lý.",
+        "Nhập và sắp xếp footage — đảm bảo đúng quy trình với từng clip.",
+        "Nhập và sắp xếp footage — làm cẩn thận để clip đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bien_tap_video_t2",
+      "jobId": "bien_tap_video",
+      "order": 2,
+      "name": "Cắt dựng thô",
+      "description": "Cắt dựng thô: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Cắt dựng thô — xử lý clip theo yêu cầu quản lý.",
+        "Cắt dựng thô — đảm bảo đúng quy trình với từng clip.",
+        "Cắt dựng thô — làm cẩn thận để clip đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bien_tap_video_t3",
+      "jobId": "bien_tap_video",
+      "order": 3,
+      "name": "Chỉnh màu và âm thanh",
+      "description": "Chỉnh màu và âm thanh: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chỉnh màu và âm thanh — xử lý clip theo yêu cầu quản lý.",
+        "Chỉnh màu và âm thanh — đảm bảo đúng quy trình với từng clip.",
+        "Chỉnh màu và âm thanh — làm cẩn thận để clip đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bien_tap_video_t4",
+      "jobId": "bien_tap_video",
+      "order": 4,
+      "name": "Thêm hiệu ứng phụ đề",
+      "description": "Thêm hiệu ứng phụ đề: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thêm hiệu ứng phụ đề — xử lý clip theo yêu cầu quản lý.",
+        "Thêm hiệu ứng phụ đề — đảm bảo đúng quy trình với từng clip.",
+        "Thêm hiệu ứng phụ đề — làm cẩn thận để clip đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bien_tap_video_t5",
+      "jobId": "bien_tap_video",
+      "order": 5,
+      "name": "Xuất bản video",
+      "description": "Xuất bản video: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xuất bản video — xử lý clip theo yêu cầu quản lý.",
+        "Xuất bản video — đảm bảo đúng quy trình với từng clip.",
+        "Xuất bản video — làm cẩn thận để clip đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_sang_tao_noi_dung_t1",
+      "jobId": "nha_sang_tao_noi_dung",
+      "order": 1,
+      "name": "Tìm ý tưởng nội dung",
+      "description": "Tìm ý tưởng nội dung: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tìm ý tưởng nội dung — xử lý bài đăng theo yêu cầu quản lý.",
+        "Tìm ý tưởng nội dung — đảm bảo đúng quy trình với từng bài đăng.",
+        "Tìm ý tưởng nội dung — làm cẩn thận để bài đăng đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_sang_tao_noi_dung_t2",
+      "jobId": "nha_sang_tao_noi_dung",
+      "order": 2,
+      "name": "Viết kịch bản ngắn",
+      "description": "Viết kịch bản ngắn: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Viết kịch bản ngắn — xử lý bài đăng theo yêu cầu quản lý.",
+        "Viết kịch bản ngắn — đảm bảo đúng quy trình với từng bài đăng.",
+        "Viết kịch bản ngắn — làm cẩn thận để bài đăng đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_sang_tao_noi_dung_t3",
+      "jobId": "nha_sang_tao_noi_dung",
+      "order": 3,
+      "name": "Quay và chụp tư liệu",
+      "description": "Quay và chụp tư liệu: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Quay và chụp tư liệu — xử lý bài đăng theo yêu cầu quản lý.",
+        "Quay và chụp tư liệu — đảm bảo đúng quy trình với từng bài đăng.",
+        "Quay và chụp tư liệu — làm cẩn thận để bài đăng đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_sang_tao_noi_dung_t4",
+      "jobId": "nha_sang_tao_noi_dung",
+      "order": 4,
+      "name": "Đăng bài đúng khung giờ",
+      "description": "Đăng bài đúng khung giờ: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đăng bài đúng khung giờ — xử lý bài đăng theo yêu cầu quản lý.",
+        "Đăng bài đúng khung giờ — đảm bảo đúng quy trình với từng bài đăng.",
+        "Đăng bài đúng khung giờ — làm cẩn thận để bài đăng đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_sang_tao_noi_dung_t5",
+      "jobId": "nha_sang_tao_noi_dung",
+      "order": 5,
+      "name": "Trả lời bình luận",
+      "description": "Trả lời bình luận: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Trả lời bình luận — xử lý bài đăng theo yêu cầu quản lý.",
+        "Trả lời bình luận — đảm bảo đúng quy trình với từng bài đăng.",
+        "Trả lời bình luận — làm cẩn thận để bài đăng đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhiep_anh_gia_t1",
+      "jobId": "nhiep_anh_gia",
+      "order": 1,
+      "name": "Chuẩn bị máy ảnh",
+      "description": "Chuẩn bị máy ảnh: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chuẩn bị máy ảnh — xử lý bức ảnh theo yêu cầu quản lý.",
+        "Chuẩn bị máy ảnh — đảm bảo đúng quy trình với từng bức ảnh.",
+        "Chuẩn bị máy ảnh — làm cẩn thận để bức ảnh đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhiep_anh_gia_t2",
+      "jobId": "nhiep_anh_gia",
+      "order": 2,
+      "name": "Chọn bố cục và ánh sáng",
+      "description": "Chọn bố cục và ánh sáng: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chọn bố cục và ánh sáng — xử lý bức ảnh theo yêu cầu quản lý.",
+        "Chọn bố cục và ánh sáng — đảm bảo đúng quy trình với từng bức ảnh.",
+        "Chọn bố cục và ánh sáng — làm cẩn thận để bức ảnh đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhiep_anh_gia_t3",
+      "jobId": "nhiep_anh_gia",
+      "order": 3,
+      "name": "Chụp loạt ảnh chính",
+      "description": "Chụp loạt ảnh chính: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chụp loạt ảnh chính — xử lý bức ảnh theo yêu cầu quản lý.",
+        "Chụp loạt ảnh chính — đảm bảo đúng quy trình với từng bức ảnh.",
+        "Chụp loạt ảnh chính — làm cẩn thận để bức ảnh đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhiep_anh_gia_t4",
+      "jobId": "nhiep_anh_gia",
+      "order": 4,
+      "name": "Chọn lọc ảnh tốt",
+      "description": "Chọn lọc ảnh tốt: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chọn lọc ảnh tốt — xử lý bức ảnh theo yêu cầu quản lý.",
+        "Chọn lọc ảnh tốt — đảm bảo đúng quy trình với từng bức ảnh.",
+        "Chọn lọc ảnh tốt — làm cẩn thận để bức ảnh đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhiep_anh_gia_t5",
+      "jobId": "nhiep_anh_gia",
+      "order": 5,
+      "name": "Hậu kỳ và giao ảnh",
+      "description": "Hậu kỳ và giao ảnh: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Hậu kỳ và giao ảnh — xử lý bức ảnh theo yêu cầu quản lý.",
+        "Hậu kỳ và giao ảnh — đảm bảo đúng quy trình với từng bức ảnh.",
+        "Hậu kỳ và giao ảnh — làm cẩn thận để bức ảnh đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phong_vien_t1",
+      "jobId": "phong_vien",
+      "order": 1,
+      "name": "Nhận đề tài từ ban biên tập",
+      "description": "Nhận đề tài từ ban biên tập: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nhận đề tài từ ban biên tập — xử lý bài báo theo yêu cầu quản lý.",
+        "Nhận đề tài từ ban biên tập — đảm bảo đúng quy trình với từng bài báo.",
+        "Nhận đề tài từ ban biên tập — làm cẩn thận để bài báo đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phong_vien_t2",
+      "jobId": "phong_vien",
+      "order": 2,
+      "name": "Tác nghiệp thu thập thông tin",
+      "description": "Tác nghiệp thu thập thông tin: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tác nghiệp thu thập thông tin — xử lý bài báo theo yêu cầu quản lý.",
+        "Tác nghiệp thu thập thông tin — đảm bảo đúng quy trình với từng bài báo.",
+        "Tác nghiệp thu thập thông tin — làm cẩn thận để bài báo đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phong_vien_t3",
+      "jobId": "phong_vien",
+      "order": 3,
+      "name": "Kiểm chứng nguồn tin",
+      "description": "Kiểm chứng nguồn tin: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm chứng nguồn tin — xử lý bài báo theo yêu cầu quản lý.",
+        "Kiểm chứng nguồn tin — đảm bảo đúng quy trình với từng bài báo.",
+        "Kiểm chứng nguồn tin — làm cẩn thận để bài báo đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phong_vien_t4",
+      "jobId": "phong_vien",
+      "order": 4,
+      "name": "Viết bài hoàn chỉnh",
+      "description": "Viết bài hoàn chỉnh: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Viết bài hoàn chỉnh — xử lý bài báo theo yêu cầu quản lý.",
+        "Viết bài hoàn chỉnh — đảm bảo đúng quy trình với từng bài báo.",
+        "Viết bài hoàn chỉnh — làm cẩn thận để bài báo đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phong_vien_t5",
+      "jobId": "phong_vien",
+      "order": 5,
+      "name": "Gửi bài duyệt",
+      "description": "Gửi bài duyệt: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Gửi bài duyệt — xử lý bài báo theo yêu cầu quản lý.",
+        "Gửi bài duyệt — đảm bảo đúng quy trình với từng bài báo.",
+        "Gửi bài duyệt — làm cẩn thận để bài báo đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_van_t1",
+      "jobId": "nha_van",
+      "order": 1,
+      "name": "Lập dàn ý chương",
+      "description": "Lập dàn ý chương: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Lập dàn ý chương — xử lý chương truyện theo yêu cầu quản lý.",
+        "Lập dàn ý chương — đảm bảo đúng quy trình với từng chương truyện.",
+        "Lập dàn ý chương — làm cẩn thận để chương truyện đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_van_t2",
+      "jobId": "nha_van",
+      "order": 2,
+      "name": "Xây dựng nhân vật",
+      "description": "Xây dựng nhân vật: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xây dựng nhân vật — xử lý chương truyện theo yêu cầu quản lý.",
+        "Xây dựng nhân vật — đảm bảo đúng quy trình với từng chương truyện.",
+        "Xây dựng nhân vật — làm cẩn thận để chương truyện đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_van_t3",
+      "jobId": "nha_van",
+      "order": 3,
+      "name": "Viết chương mới",
+      "description": "Viết chương mới: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Viết chương mới — xử lý chương truyện theo yêu cầu quản lý.",
+        "Viết chương mới — đảm bảo đúng quy trình với từng chương truyện.",
+        "Viết chương mới — làm cẩn thận để chương truyện đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_van_t4",
+      "jobId": "nha_van",
+      "order": 4,
+      "name": "Biên tập lỗi chính tả",
+      "description": "Biên tập lỗi chính tả: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Biên tập lỗi chính tả — xử lý chương truyện theo yêu cầu quản lý.",
+        "Biên tập lỗi chính tả — đảm bảo đúng quy trình với từng chương truyện.",
+        "Biên tập lỗi chính tả — làm cẩn thận để chương truyện đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nha_van_t5",
+      "jobId": "nha_van",
+      "order": 5,
+      "name": "Gửi bản thảo nhà xuất bản",
+      "description": "Gửi bản thảo nhà xuất bản: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Gửi bản thảo nhà xuất bản — xử lý chương truyện theo yêu cầu quản lý.",
+        "Gửi bản thảo nhà xuất bản — đảm bảo đúng quy trình với từng chương truyện.",
+        "Gửi bản thảo nhà xuất bản — làm cẩn thận để chương truyện đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "streamer_t1",
+      "jobId": "streamer",
+      "order": 1,
+      "name": "Kiểm tra thiết bị phát",
+      "description": "Kiểm tra thiết bị phát: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra thiết bị phát — xử lý buổi phát theo yêu cầu quản lý.",
+        "Kiểm tra thiết bị phát — đảm bảo đúng quy trình với từng buổi phát.",
+        "Kiểm tra thiết bị phát — làm cẩn thận để buổi phát đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "streamer_t2",
+      "jobId": "streamer",
+      "order": 2,
+      "name": "Bắt đầu buổi phát",
+      "description": "Bắt đầu buổi phát: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Bắt đầu buổi phát — xử lý buổi phát theo yêu cầu quản lý.",
+        "Bắt đầu buổi phát — đảm bảo đúng quy trình với từng buổi phát.",
+        "Bắt đầu buổi phát — làm cẩn thận để buổi phát đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "streamer_t3",
+      "jobId": "streamer",
+      "order": 3,
+      "name": "Tương tác với khán giả",
+      "description": "Tương tác với khán giả: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tương tác với khán giả — xử lý buổi phát theo yêu cầu quản lý.",
+        "Tương tác với khán giả — đảm bảo đúng quy trình với từng buổi phát.",
+        "Tương tác với khán giả — làm cẩn thận để buổi phát đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "streamer_t4",
+      "jobId": "streamer",
+      "order": 4,
+      "name": "Xử lý bình luận xấu",
+      "description": "Xử lý bình luận xấu: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Xử lý bình luận xấu — xử lý buổi phát theo yêu cầu quản lý.",
+        "Xử lý bình luận xấu — đảm bảo đúng quy trình với từng buổi phát.",
+        "Xử lý bình luận xấu — làm cẩn thận để buổi phát đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "streamer_t5",
+      "jobId": "streamer",
+      "order": 5,
+      "name": "Tổng kết và cảm ơn",
+      "description": "Tổng kết và cảm ơn: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tổng kết và cảm ơn — xử lý buổi phát theo yêu cầu quản lý.",
+        "Tổng kết và cảm ơn — đảm bảo đúng quy trình với từng buổi phát.",
+        "Tổng kết và cảm ơn — làm cẩn thận để buổi phát đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "youtuber_t1",
+      "jobId": "youtuber",
+      "order": 1,
+      "name": "Nghiên cứu xu hướng",
+      "description": "Nghiên cứu xu hướng: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nghiên cứu xu hướng — xử lý video theo yêu cầu quản lý.",
+        "Nghiên cứu xu hướng — đảm bảo đúng quy trình với từng video.",
+        "Nghiên cứu xu hướng — làm cẩn thận để video đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "youtuber_t2",
+      "jobId": "youtuber",
+      "order": 2,
+      "name": "Viết kịch bản video",
+      "description": "Viết kịch bản video: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Viết kịch bản video — xử lý video theo yêu cầu quản lý.",
+        "Viết kịch bản video — đảm bảo đúng quy trình với từng video.",
+        "Viết kịch bản video — làm cẩn thận để video đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "youtuber_t3",
+      "jobId": "youtuber",
+      "order": 3,
+      "name": "Quay video",
+      "description": "Quay video: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Quay video — xử lý video theo yêu cầu quản lý.",
+        "Quay video — đảm bảo đúng quy trình với từng video.",
+        "Quay video — làm cẩn thận để video đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "youtuber_t4",
+      "jobId": "youtuber",
+      "order": 4,
+      "name": "Dựng và làm thumbnail",
+      "description": "Dựng và làm thumbnail: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Dựng và làm thumbnail — xử lý video theo yêu cầu quản lý.",
+        "Dựng và làm thumbnail — đảm bảo đúng quy trình với từng video.",
+        "Dựng và làm thumbnail — làm cẩn thận để video đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "youtuber_t5",
+      "jobId": "youtuber",
+      "order": 5,
+      "name": "Đăng và tối ưu tiêu đề",
+      "description": "Đăng và tối ưu tiêu đề: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đăng và tối ưu tiêu đề — xử lý video theo yêu cầu quản lý.",
+        "Đăng và tối ưu tiêu đề — đảm bảo đúng quy trình với từng video.",
+        "Đăng và tối ưu tiêu đề — làm cẩn thận để video đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhac_si_t1",
+      "jobId": "nhac_si",
+      "order": 1,
+      "name": "Tìm cảm hứng giai điệu",
+      "description": "Tìm cảm hứng giai điệu: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tìm cảm hứng giai điệu — xử lý bản nhạc theo yêu cầu quản lý.",
+        "Tìm cảm hứng giai điệu — đảm bảo đúng quy trình với từng bản nhạc.",
+        "Tìm cảm hứng giai điệu — làm cẩn thận để bản nhạc đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhac_si_t2",
+      "jobId": "nhac_si",
+      "order": 2,
+      "name": "Soạn hợp âm",
+      "description": "Soạn hợp âm: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Soạn hợp âm — xử lý bản nhạc theo yêu cầu quản lý.",
+        "Soạn hợp âm — đảm bảo đúng quy trình với từng bản nhạc.",
+        "Soạn hợp âm — làm cẩn thận để bản nhạc đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhac_si_t3",
+      "jobId": "nhac_si",
+      "order": 3,
+      "name": "Phối khí bản nhạc",
+      "description": "Phối khí bản nhạc: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Phối khí bản nhạc — xử lý bản nhạc theo yêu cầu quản lý.",
+        "Phối khí bản nhạc — đảm bảo đúng quy trình với từng bản nhạc.",
+        "Phối khí bản nhạc — làm cẩn thận để bản nhạc đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhac_si_t4",
+      "jobId": "nhac_si",
+      "order": 4,
+      "name": "Thu bản demo",
+      "description": "Thu bản demo: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thu bản demo — xử lý bản nhạc theo yêu cầu quản lý.",
+        "Thu bản demo — đảm bảo đúng quy trình với từng bản nhạc.",
+        "Thu bản demo — làm cẩn thận để bản nhạc đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "nhac_si_t5",
+      "jobId": "nhac_si",
+      "order": 5,
+      "name": "Hoàn thiện bản chính",
+      "description": "Hoàn thiện bản chính: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Hoàn thiện bản chính — xử lý bản nhạc theo yêu cầu quản lý.",
+        "Hoàn thiện bản chính — đảm bảo đúng quy trình với từng bản nhạc.",
+        "Hoàn thiện bản chính — làm cẩn thận để bản nhạc đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ca_si_t1",
+      "jobId": "ca_si",
+      "order": 1,
+      "name": "Khởi động giọng hát",
+      "description": "Khởi động giọng hát: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Khởi động giọng hát — xử lý bài hát theo yêu cầu quản lý.",
+        "Khởi động giọng hát — đảm bảo đúng quy trình với từng bài hát.",
+        "Khởi động giọng hát — làm cẩn thận để bài hát đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ca_si_t2",
+      "jobId": "ca_si",
+      "order": 2,
+      "name": "Luyện bài mới",
+      "description": "Luyện bài mới: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Luyện bài mới — xử lý bài hát theo yêu cầu quản lý.",
+        "Luyện bài mới — đảm bảo đúng quy trình với từng bài hát.",
+        "Luyện bài mới — làm cẩn thận để bài hát đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ca_si_t3",
+      "jobId": "ca_si",
+      "order": 3,
+      "name": "Thu âm tại phòng thu",
+      "description": "Thu âm tại phòng thu: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thu âm tại phòng thu — xử lý bài hát theo yêu cầu quản lý.",
+        "Thu âm tại phòng thu — đảm bảo đúng quy trình với từng bài hát.",
+        "Thu âm tại phòng thu — làm cẩn thận để bài hát đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ca_si_t4",
+      "jobId": "ca_si",
+      "order": 4,
+      "name": "Biểu diễn thử",
+      "description": "Biểu diễn thử: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Biểu diễn thử — xử lý bài hát theo yêu cầu quản lý.",
+        "Biểu diễn thử — đảm bảo đúng quy trình với từng bài hát.",
+        "Biểu diễn thử — làm cẩn thận để bài hát đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ca_si_t5",
+      "jobId": "ca_si",
+      "order": 5,
+      "name": "Họp với ê-kíp",
+      "description": "Họp với ê-kíp: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Họp với ê-kíp — xử lý bài hát theo yêu cầu quản lý.",
+        "Họp với ê-kíp — đảm bảo đúng quy trình với từng bài hát.",
+        "Họp với ê-kíp — làm cẩn thận để bài hát đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_vien_t1",
+      "jobId": "giao_vien",
+      "order": 1,
+      "name": "Soạn giáo án",
+      "description": "Soạn giáo án: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Soạn giáo án — xử lý tiết dạy theo yêu cầu quản lý.",
+        "Soạn giáo án — đảm bảo đúng quy trình với từng tiết dạy.",
+        "Soạn giáo án — làm cẩn thận để tiết dạy đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_vien_t2",
+      "jobId": "giao_vien",
+      "order": 2,
+      "name": "Giảng bài trên lớp",
+      "description": "Giảng bài trên lớp: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Giảng bài trên lớp — xử lý tiết dạy theo yêu cầu quản lý.",
+        "Giảng bài trên lớp — đảm bảo đúng quy trình với từng tiết dạy.",
+        "Giảng bài trên lớp — làm cẩn thận để tiết dạy đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_vien_t3",
+      "jobId": "giao_vien",
+      "order": 3,
+      "name": "Chấm bài kiểm tra",
+      "description": "Chấm bài kiểm tra: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chấm bài kiểm tra — xử lý tiết dạy theo yêu cầu quản lý.",
+        "Chấm bài kiểm tra — đảm bảo đúng quy trình với từng tiết dạy.",
+        "Chấm bài kiểm tra — làm cẩn thận để tiết dạy đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_vien_t4",
+      "jobId": "giao_vien",
+      "order": 4,
+      "name": "Giải đáp thắc mắc học sinh",
+      "description": "Giải đáp thắc mắc học sinh: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Giải đáp thắc mắc học sinh — xử lý tiết dạy theo yêu cầu quản lý.",
+        "Giải đáp thắc mắc học sinh — đảm bảo đúng quy trình với từng tiết dạy.",
+        "Giải đáp thắc mắc học sinh — làm cẩn thận để tiết dạy đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giao_vien_t5",
+      "jobId": "giao_vien",
+      "order": 5,
+      "name": "Liên hệ phụ huynh",
+      "description": "Liên hệ phụ huynh: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Liên hệ phụ huynh — xử lý tiết dạy theo yêu cầu quản lý.",
+        "Liên hệ phụ huynh — đảm bảo đúng quy trình với từng tiết dạy.",
+        "Liên hệ phụ huynh — làm cẩn thận để tiết dạy đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ke_toan_t1",
+      "jobId": "ke_toan",
+      "order": 1,
+      "name": "Thu thập chứng từ",
+      "description": "Thu thập chứng từ: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Thu thập chứng từ — xử lý chứng từ theo yêu cầu quản lý.",
+        "Thu thập chứng từ — đảm bảo đúng quy trình với từng chứng từ.",
+        "Thu thập chứng từ — làm cẩn thận để chứng từ đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ke_toan_t2",
+      "jobId": "ke_toan",
+      "order": 2,
+      "name": "Hạch toán vào sổ",
+      "description": "Hạch toán vào sổ: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Hạch toán vào sổ — xử lý chứng từ theo yêu cầu quản lý.",
+        "Hạch toán vào sổ — đảm bảo đúng quy trình với từng chứng từ.",
+        "Hạch toán vào sổ — làm cẩn thận để chứng từ đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ke_toan_t3",
+      "jobId": "ke_toan",
+      "order": 3,
+      "name": "Đối chiếu công nợ",
+      "description": "Đối chiếu công nợ: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đối chiếu công nợ — xử lý chứng từ theo yêu cầu quản lý.",
+        "Đối chiếu công nợ — đảm bảo đúng quy trình với từng chứng từ.",
+        "Đối chiếu công nợ — làm cẩn thận để chứng từ đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ke_toan_t4",
+      "jobId": "ke_toan",
+      "order": 4,
+      "name": "Lập báo cáo thuế",
+      "description": "Lập báo cáo thuế: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Lập báo cáo thuế — xử lý chứng từ theo yêu cầu quản lý.",
+        "Lập báo cáo thuế — đảm bảo đúng quy trình với từng chứng từ.",
+        "Lập báo cáo thuế — làm cẩn thận để chứng từ đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ke_toan_t5",
+      "jobId": "ke_toan",
+      "order": 5,
+      "name": "Kiểm tra số liệu cuối kỳ",
+      "description": "Kiểm tra số liệu cuối kỳ: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra số liệu cuối kỳ — xử lý chứng từ theo yêu cầu quản lý.",
+        "Kiểm tra số liệu cuối kỳ — đảm bảo đúng quy trình với từng chứng từ.",
+        "Kiểm tra số liệu cuối kỳ — làm cẩn thận để chứng từ đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "duoc_si_t1",
+      "jobId": "duoc_si",
+      "order": 1,
+      "name": "Kiểm tra đơn thuốc",
+      "description": "Kiểm tra đơn thuốc: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra đơn thuốc — xử lý đơn thuốc theo yêu cầu quản lý.",
+        "Kiểm tra đơn thuốc — đảm bảo đúng quy trình với từng đơn thuốc.",
+        "Kiểm tra đơn thuốc — làm cẩn thận để đơn thuốc đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "duoc_si_t2",
+      "jobId": "duoc_si",
+      "order": 2,
+      "name": "Pha chế và cấp phát",
+      "description": "Pha chế và cấp phát: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Pha chế và cấp phát — xử lý đơn thuốc theo yêu cầu quản lý.",
+        "Pha chế và cấp phát — đảm bảo đúng quy trình với từng đơn thuốc.",
+        "Pha chế và cấp phát — làm cẩn thận để đơn thuốc đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "duoc_si_t3",
+      "jobId": "duoc_si",
+      "order": 3,
+      "name": "Tư vấn cách dùng thuốc",
+      "description": "Tư vấn cách dùng thuốc: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tư vấn cách dùng thuốc — xử lý đơn thuốc theo yêu cầu quản lý.",
+        "Tư vấn cách dùng thuốc — đảm bảo đúng quy trình với từng đơn thuốc.",
+        "Tư vấn cách dùng thuốc — làm cẩn thận để đơn thuốc đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "duoc_si_t4",
+      "jobId": "duoc_si",
+      "order": 4,
+      "name": "Quản lý hạn dùng kho thuốc",
+      "description": "Quản lý hạn dùng kho thuốc: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Quản lý hạn dùng kho thuốc — xử lý đơn thuốc theo yêu cầu quản lý.",
+        "Quản lý hạn dùng kho thuốc — đảm bảo đúng quy trình với từng đơn thuốc.",
+        "Quản lý hạn dùng kho thuốc — làm cẩn thận để đơn thuốc đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "duoc_si_t5",
+      "jobId": "duoc_si",
+      "order": 5,
+      "name": "Ghi sổ thuốc kiểm soát",
+      "description": "Ghi sổ thuốc kiểm soát: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Ghi sổ thuốc kiểm soát — xử lý đơn thuốc theo yêu cầu quản lý.",
+        "Ghi sổ thuốc kiểm soát — đảm bảo đúng quy trình với từng đơn thuốc.",
+        "Ghi sổ thuốc kiểm soát — làm cẩn thận để đơn thuốc đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "kien_truc_su_t1",
+      "jobId": "kien_truc_su",
+      "order": 1,
+      "name": "Gặp khách lấy yêu cầu",
+      "description": "Gặp khách lấy yêu cầu: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Gặp khách lấy yêu cầu — xử lý bản vẽ theo yêu cầu quản lý.",
+        "Gặp khách lấy yêu cầu — đảm bảo đúng quy trình với từng bản vẽ.",
+        "Gặp khách lấy yêu cầu — làm cẩn thận để bản vẽ đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "kien_truc_su_t2",
+      "jobId": "kien_truc_su",
+      "order": 2,
+      "name": "Phác thảo phương án",
+      "description": "Phác thảo phương án: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Phác thảo phương án — xử lý bản vẽ theo yêu cầu quản lý.",
+        "Phác thảo phương án — đảm bảo đúng quy trình với từng bản vẽ.",
+        "Phác thảo phương án — làm cẩn thận để bản vẽ đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "kien_truc_su_t3",
+      "jobId": "kien_truc_su",
+      "order": 3,
+      "name": "Dựng mô hình 3D",
+      "description": "Dựng mô hình 3D: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Dựng mô hình 3D — xử lý bản vẽ theo yêu cầu quản lý.",
+        "Dựng mô hình 3D — đảm bảo đúng quy trình với từng bản vẽ.",
+        "Dựng mô hình 3D — làm cẩn thận để bản vẽ đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "kien_truc_su_t4",
+      "jobId": "kien_truc_su",
+      "order": 4,
+      "name": "Triển khai bản vẽ kỹ thuật",
+      "description": "Triển khai bản vẽ kỹ thuật: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Triển khai bản vẽ kỹ thuật — xử lý bản vẽ theo yêu cầu quản lý.",
+        "Triển khai bản vẽ kỹ thuật — đảm bảo đúng quy trình với từng bản vẽ.",
+        "Triển khai bản vẽ kỹ thuật — làm cẩn thận để bản vẽ đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "kien_truc_su_t5",
+      "jobId": "kien_truc_su",
+      "order": 5,
+      "name": "Giám sát tác giả",
+      "description": "Giám sát tác giả: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Giám sát tác giả — xử lý bản vẽ theo yêu cầu quản lý.",
+        "Giám sát tác giả — đảm bảo đúng quy trình với từng bản vẽ.",
+        "Giám sát tác giả — làm cẩn thận để bản vẽ đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_xay_dung_t1",
+      "jobId": "ky_su_xay_dung",
+      "order": 1,
+      "name": "Khảo sát hiện trường",
+      "description": "Khảo sát hiện trường: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Khảo sát hiện trường — xử lý công trình theo yêu cầu quản lý.",
+        "Khảo sát hiện trường — đảm bảo đúng quy trình với từng công trình.",
+        "Khảo sát hiện trường — làm cẩn thận để công trình đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_xay_dung_t2",
+      "jobId": "ky_su_xay_dung",
+      "order": 2,
+      "name": "Tính toán kết cấu",
+      "description": "Tính toán kết cấu: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tính toán kết cấu — xử lý công trình theo yêu cầu quản lý.",
+        "Tính toán kết cấu — đảm bảo đúng quy trình với từng công trình.",
+        "Tính toán kết cấu — làm cẩn thận để công trình đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_xay_dung_t3",
+      "jobId": "ky_su_xay_dung",
+      "order": 3,
+      "name": "Kiểm tra vật liệu",
+      "description": "Kiểm tra vật liệu: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra vật liệu — xử lý công trình theo yêu cầu quản lý.",
+        "Kiểm tra vật liệu — đảm bảo đúng quy trình với từng công trình.",
+        "Kiểm tra vật liệu — làm cẩn thận để công trình đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_xay_dung_t4",
+      "jobId": "ky_su_xay_dung",
+      "order": 4,
+      "name": "Giám sát thi công",
+      "description": "Giám sát thi công: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Giám sát thi công — xử lý công trình theo yêu cầu quản lý.",
+        "Giám sát thi công — đảm bảo đúng quy trình với từng công trình.",
+        "Giám sát thi công — làm cẩn thận để công trình đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "ky_su_xay_dung_t5",
+      "jobId": "ky_su_xay_dung",
+      "order": 5,
+      "name": "Nghiệm thu hạng mục",
+      "description": "Nghiệm thu hạng mục: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nghiệm thu hạng mục — xử lý công trình theo yêu cầu quản lý.",
+        "Nghiệm thu hạng mục — đảm bảo đúng quy trình với từng công trình.",
+        "Nghiệm thu hạng mục — làm cẩn thận để công trình đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "luat_su_t1",
+      "jobId": "luat_su",
+      "order": 1,
+      "name": "Tiếp nhận thân chủ",
+      "description": "Tiếp nhận thân chủ: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tiếp nhận thân chủ — xử lý hồ sơ vụ án theo yêu cầu quản lý.",
+        "Tiếp nhận thân chủ — đảm bảo đúng quy trình với từng hồ sơ vụ án.",
+        "Tiếp nhận thân chủ — làm cẩn thận để hồ sơ vụ án đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "luat_su_t2",
+      "jobId": "luat_su",
+      "order": 2,
+      "name": "Nghiên cứu hồ sơ vụ án",
+      "description": "Nghiên cứu hồ sơ vụ án: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Nghiên cứu hồ sơ vụ án — xử lý hồ sơ vụ án theo yêu cầu quản lý.",
+        "Nghiên cứu hồ sơ vụ án — đảm bảo đúng quy trình với từng hồ sơ vụ án.",
+        "Nghiên cứu hồ sơ vụ án — làm cẩn thận để hồ sơ vụ án đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "luat_su_t3",
+      "jobId": "luat_su",
+      "order": 3,
+      "name": "Soạn văn bản pháp lý",
+      "description": "Soạn văn bản pháp lý: hoàn thành 3 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Soạn văn bản pháp lý — xử lý hồ sơ vụ án theo yêu cầu quản lý.",
+        "Soạn văn bản pháp lý — đảm bảo đúng quy trình với từng hồ sơ vụ án.",
+        "Soạn văn bản pháp lý — làm cẩn thận để hồ sơ vụ án đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 3,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "luat_su_t4",
+      "jobId": "luat_su",
+      "order": 4,
+      "name": "Đối thoại với bên liên quan",
+      "description": "Đối thoại với bên liên quan: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Đối thoại với bên liên quan — xử lý hồ sơ vụ án theo yêu cầu quản lý.",
+        "Đối thoại với bên liên quan — đảm bảo đúng quy trình với từng hồ sơ vụ án.",
+        "Đối thoại với bên liên quan — làm cẩn thận để hồ sơ vụ án đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "luat_su_t5",
+      "jobId": "luat_su",
+      "order": 5,
+      "name": "Chuẩn bị phiên tòa",
+      "description": "Chuẩn bị phiên tòa: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chuẩn bị phiên tòa — xử lý hồ sơ vụ án theo yêu cầu quản lý.",
+        "Chuẩn bị phiên tòa — đảm bảo đúng quy trình với từng hồ sơ vụ án.",
+        "Chuẩn bị phiên tòa — làm cẩn thận để hồ sơ vụ án đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bac_si_t1",
+      "jobId": "bac_si",
+      "order": 1,
+      "name": "Khám bệnh ban đầu",
+      "description": "Khám bệnh ban đầu: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Khám bệnh ban đầu — xử lý ca bệnh theo yêu cầu quản lý.",
+        "Khám bệnh ban đầu — đảm bảo đúng quy trình với từng ca bệnh.",
+        "Khám bệnh ban đầu — làm cẩn thận để ca bệnh đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bac_si_t2",
+      "jobId": "bac_si",
+      "order": 2,
+      "name": "Chỉ định xét nghiệm",
+      "description": "Chỉ định xét nghiệm: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chỉ định xét nghiệm — xử lý ca bệnh theo yêu cầu quản lý.",
+        "Chỉ định xét nghiệm — đảm bảo đúng quy trình với từng ca bệnh.",
+        "Chỉ định xét nghiệm — làm cẩn thận để ca bệnh đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bac_si_t3",
+      "jobId": "bac_si",
+      "order": 3,
+      "name": "Chẩn đoán bệnh",
+      "description": "Chẩn đoán bệnh: hoàn thành 3 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Chẩn đoán bệnh — xử lý ca bệnh theo yêu cầu quản lý.",
+        "Chẩn đoán bệnh — đảm bảo đúng quy trình với từng ca bệnh.",
+        "Chẩn đoán bệnh — làm cẩn thận để ca bệnh đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 3,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bac_si_t4",
+      "jobId": "bac_si",
+      "order": 4,
+      "name": "Kê đơn điều trị",
+      "description": "Kê đơn điều trị: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kê đơn điều trị — xử lý ca bệnh theo yêu cầu quản lý.",
+        "Kê đơn điều trị — đảm bảo đúng quy trình với từng ca bệnh.",
+        "Kê đơn điều trị — làm cẩn thận để ca bệnh đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "bac_si_t5",
+      "jobId": "bac_si",
+      "order": 5,
+      "name": "Theo dõi tái khám",
+      "description": "Theo dõi tái khám: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Theo dõi tái khám — xử lý ca bệnh theo yêu cầu quản lý.",
+        "Theo dõi tái khám — đảm bảo đúng quy trình với từng ca bệnh.",
+        "Theo dõi tái khám — làm cẩn thận để ca bệnh đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phi_cong_t1",
+      "jobId": "phi_cong",
+      "order": 1,
+      "name": "Họp tổ bay trước chuyến",
+      "description": "Họp tổ bay trước chuyến: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Họp tổ bay trước chuyến — xử lý chuyến bay theo yêu cầu quản lý.",
+        "Họp tổ bay trước chuyến — đảm bảo đúng quy trình với từng chuyến bay.",
+        "Họp tổ bay trước chuyến — làm cẩn thận để chuyến bay đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phi_cong_t2",
+      "jobId": "phi_cong",
+      "order": 2,
+      "name": "Kiểm tra checklist máy bay",
+      "description": "Kiểm tra checklist máy bay: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Kiểm tra checklist máy bay — xử lý chuyến bay theo yêu cầu quản lý.",
+        "Kiểm tra checklist máy bay — đảm bảo đúng quy trình với từng chuyến bay.",
+        "Kiểm tra checklist máy bay — làm cẩn thận để chuyến bay đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phi_cong_t3",
+      "jobId": "phi_cong",
+      "order": 3,
+      "name": "Cất cánh",
+      "description": "Cất cánh: hoàn thành 3 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Cất cánh — xử lý chuyến bay theo yêu cầu quản lý.",
+        "Cất cánh — đảm bảo đúng quy trình với từng chuyến bay.",
+        "Cất cánh — làm cẩn thận để chuyến bay đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 3,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phi_cong_t4",
+      "jobId": "phi_cong",
+      "order": 4,
+      "name": "Duy trì độ cao hành trình",
+      "description": "Duy trì độ cao hành trình: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Duy trì độ cao hành trình — xử lý chuyến bay theo yêu cầu quản lý.",
+        "Duy trì độ cao hành trình — đảm bảo đúng quy trình với từng chuyến bay.",
+        "Duy trì độ cao hành trình — làm cẩn thận để chuyến bay đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "phi_cong_t5",
+      "jobId": "phi_cong",
+      "order": 5,
+      "name": "Hạ cánh an toàn",
+      "description": "Hạ cánh an toàn: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Hạ cánh an toàn — xử lý chuyến bay theo yêu cầu quản lý.",
+        "Hạ cánh an toàn — đảm bảo đúng quy trình với từng chuyến bay.",
+        "Hạ cánh an toàn — làm cẩn thận để chuyến bay đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_dn_t1",
+      "jobId": "giam_doc_dn",
+      "order": 1,
+      "name": "Họp ban điều hành",
+      "description": "Họp ban điều hành: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Họp ban điều hành — xử lý quyết định theo yêu cầu quản lý.",
+        "Họp ban điều hành — đảm bảo đúng quy trình với từng quyết định.",
+        "Họp ban điều hành — làm cẩn thận để quyết định đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_dn_t2",
+      "jobId": "giam_doc_dn",
+      "order": 2,
+      "name": "Duyệt kế hoạch kinh doanh",
+      "description": "Duyệt kế hoạch kinh doanh: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Duyệt kế hoạch kinh doanh — xử lý quyết định theo yêu cầu quản lý.",
+        "Duyệt kế hoạch kinh doanh — đảm bảo đúng quy trình với từng quyết định.",
+        "Duyệt kế hoạch kinh doanh — làm cẩn thận để quyết định đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_dn_t3",
+      "jobId": "giam_doc_dn",
+      "order": 3,
+      "name": "Làm việc với đối tác",
+      "description": "Làm việc với đối tác: hoàn thành 3 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Làm việc với đối tác — xử lý quyết định theo yêu cầu quản lý.",
+        "Làm việc với đối tác — đảm bảo đúng quy trình với từng quyết định.",
+        "Làm việc với đối tác — làm cẩn thận để quyết định đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 3,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_dn_t4",
+      "jobId": "giam_doc_dn",
+      "order": 4,
+      "name": "Giải quyết khủng hoảng",
+      "description": "Giải quyết khủng hoảng: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Giải quyết khủng hoảng — xử lý quyết định theo yêu cầu quản lý.",
+        "Giải quyết khủng hoảng — đảm bảo đúng quy trình với từng quyết định.",
+        "Giải quyết khủng hoảng — làm cẩn thận để quyết định đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_dn_t5",
+      "jobId": "giam_doc_dn",
+      "order": 5,
+      "name": "Tổng kết kết quả quý",
+      "description": "Tổng kết kết quả quý: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Tổng kết kết quả quý — xử lý quyết định theo yêu cầu quản lý.",
+        "Tổng kết kết quả quý — đảm bảo đúng quy trình với từng quyết định.",
+        "Tổng kết kết quả quý — làm cẩn thận để quyết định đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_cn_t1",
+      "jobId": "giam_doc_cn",
+      "order": 1,
+      "name": "Họp chiến lược công nghệ",
+      "description": "Họp chiến lược công nghệ: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Họp chiến lược công nghệ — xử lý dự án theo yêu cầu quản lý.",
+        "Họp chiến lược công nghệ — đảm bảo đúng quy trình với từng dự án.",
+        "Họp chiến lược công nghệ — làm cẩn thận để dự án đạt chuẩn."
+      ],
+      "kind": "evensum",
+      "count": 1,
+      "startCondition": "Ca làm đã bắt đầu",
+      "validation": "tính đúng tổng",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_cn_t2",
+      "jobId": "giam_doc_cn",
+      "order": 2,
+      "name": "Duyệt kiến trúc hệ thống",
+      "description": "Duyệt kiến trúc hệ thống: hoàn thành 2 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Duyệt kiến trúc hệ thống — xử lý dự án theo yêu cầu quản lý.",
+        "Duyệt kiến trúc hệ thống — đảm bảo đúng quy trình với từng dự án.",
+        "Duyệt kiến trúc hệ thống — làm cẩn thận để dự án đạt chuẩn."
+      ],
+      "kind": "code",
+      "count": 2,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "nhập đúng mã xác nhận",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_cn_t3",
+      "jobId": "giam_doc_cn",
+      "order": 3,
+      "name": "Quản lý rủi ro kỹ thuật",
+      "description": "Quản lý rủi ro kỹ thuật: hoàn thành 3 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Quản lý rủi ro kỹ thuật — xử lý dự án theo yêu cầu quản lý.",
+        "Quản lý rủi ro kỹ thuật — đảm bảo đúng quy trình với từng dự án.",
+        "Quản lý rủi ro kỹ thuật — làm cẩn thận để dự án đạt chuẩn."
+      ],
+      "kind": "math",
+      "count": 3,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "tính đúng kết quả",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_cn_t4",
+      "jobId": "giam_doc_cn",
+      "order": 4,
+      "name": "Làm việc với đội kỹ sư",
+      "description": "Làm việc với đội kỹ sư: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Làm việc với đội kỹ sư — xử lý dự án theo yêu cầu quản lý.",
+        "Làm việc với đội kỹ sư — đảm bảo đúng quy trình với từng dự án.",
+        "Làm việc với đội kỹ sư — làm cẩn thận để dự án đạt chuẩn."
+      ],
+      "kind": "quiz",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng đáp án",
+      "wageShare": 0.2
+    },
+    {
+      "id": "giam_doc_cn_t5",
+      "jobId": "giam_doc_cn",
+      "order": 5,
+      "name": "Báo cáo hội đồng quản trị",
+      "description": "Báo cáo hội đồng quản trị: hoàn thành 1 lượt kiểm tra do hệ thống giao.",
+      "variants": [
+        "Báo cáo hội đồng quản trị — xử lý dự án theo yêu cầu quản lý.",
+        "Báo cáo hội đồng quản trị — đảm bảo đúng quy trình với từng dự án.",
+        "Báo cáo hội đồng quản trị — làm cẩn thận để dự án đạt chuẩn."
+      ],
+      "kind": "sequence",
+      "count": 1,
+      "startCondition": "Hoàn thành nhiệm vụ trước đó",
+      "validation": "chọn đúng số tiếp theo",
+      "wageShare": 0.2
+    }
+  ]
+}

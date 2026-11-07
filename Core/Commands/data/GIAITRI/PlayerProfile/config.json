@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "maxDisplayNameLength": 24,
+  "minDisplayNameLength": 2,
+  "maxAvatarBytes": 2097152,
+  "sessionTtlMs": 300000,
+  "maxLevel": 100,
+  "baseExp": 100,
+  "expGrowth": 1.15,
+  "showCultivation": true,
+  "showRank": true,
+  "showGang": true,
+  "showAchievements": true,
+  "showStatistics": true
+}

@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "tiers": {
+    "BASIC": {
+      "name": "BASIC",
+      "displayName": "BASIC INVENTORY",
+      "capacity": 30,
+      "badge": "BASIC",
+      "priority": 1
+    },
+    "VIP": {
+      "name": "VIP",
+      "displayName": "VIP INVENTORY",
+      "capacity": 100,
+      "badge": "VIP",
+      "priority": 2
+    },
+    "PRE": {
+      "name": "PRE",
+      "displayName": "PRE INVENTORY",
+      "capacity": 300,
+      "badge": "PRE",
+      "priority": 3
+    },
+    "INFINITE": {
+      "name": "INFINITE",
+      "displayName": "INFINITE INVENTORY",
+      "capacity": null,
+      "badge": "VÔ HẠN",
+      "priority": 4
+    }
+  },
+  "defaultTier": "BASIC",
+  "pageSize": 20,
+  "maxStackDefault": 99,
+  "currency": "GOLD"
+}

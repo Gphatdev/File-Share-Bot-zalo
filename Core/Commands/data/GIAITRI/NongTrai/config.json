@@ -1,0 +1,40 @@
+{
+  "enabled": true,
+  "sessionTtlMs": 300000,
+  "maxLevel": 50,
+  "baseExpFarm": 80,
+  "expGrowthFarm": 1.18,
+  "maxPlotsPerPlayer": 48,
+  "harvestCooldownMs": 1500,
+  "plantCooldownMs": 800,
+  "sellCooldownMs": 1000,
+  "rankTop": 15,
+  "defaultLandId": "land_basic",
+  "titles": [
+    {
+      "id": "novice",
+      "name": "Nông Dân Tập Sự",
+      "minLevel": 1
+    },
+    {
+      "id": "gardener",
+      "name": "Người Làm Vườn",
+      "minLevel": 5
+    },
+    {
+      "id": "pro",
+      "name": "Nhà Nông Chuyên Nghiệp",
+      "minLevel": 15
+    },
+    {
+      "id": "tycoon",
+      "name": "Đại Gia Nông Trại",
+      "minLevel": 30
+    },
+    {
+      "id": "legend",
+      "name": "Huyền Thoại Nông Nghiệp",
+      "minLevel": 45
+    }
+  ]
+}

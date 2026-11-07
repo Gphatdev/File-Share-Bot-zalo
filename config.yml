@@ -1,0 +1,47 @@
+# ==============================================================================
+#  NKNP V3 — config.yml
+#  Cấu hình (dễ chỉnh sửa bằng tay) — song song với file .env
+#  (cấu hình "kiểu EMPHAT", có validate bằng zod). App/Config.js sẽ đọc và
+#  hợp nhất cả hai, ưu tiên .env cho các khoá trùng tên (BOT_NAME, BOT_PREFIX...).
+# ==============================================================================
+
+studio: "HNNP STUDIO"
+# Tên bot hiển thị. Tin nhắn và caption lệnh sẽ tự thay các thương hiệu cũ.
+# BOT_NAME khác mặc định trong .env sẽ được ưu tiên hơn mục này.
+name_bot: "HNNP STUDIO"
+prefix: "."
+
+# [RENT] threadId của box nhận báo cáo thuê bot hằng ngày (sau 00:00 giờ Việt Nam).
+# Để trống = không gửi (hoặc dùng lệnh `.rent admin set` trong box muốn nhận).
+rentalReportThreadId: ""
+
+# [RENT] Sau bao nhiêu phút kể từ lúc hết hạn mà box chưa gia hạn thì bot tự rời box (0 = tắt).
+rentalAutoLeaveMinutes: 60
+
+# [RENT] Gmail gửi thông báo khi bot bị mời khỏi nhóm.
+# Đặt RENT_GMAIL_USER và RENT_GMAIL_APP_PASSWORD trong .env để không lưu bí mật ở đây.
+# Tạo App Password tại https://myaccount.google.com/apppasswords sau khi bật xác minh 2 bước.
+rentalGmail:
+  user: ""
+  appPassword: ""
+
+version: "3.0.0"
+
+# Danh sách UID admin / support (dùng cho các lệnh: role kiểm tra
+# qua global.config.admin_bot / support_bot). Điền UID Zalo thật vào đây,
+# hoặc dùng lệnh !id để lấy UID của một tài khoản.
+  admin_bot: []
+  support_bot: []
+
+allow_private_command: true   # cho phép nhận lệnh qua tin nhắn riêng (inbox)
+default_money: 0              # số dư mặc định khi 1 user mới được khởi tạo
+
+# Thông tin hiển thị trên banner khởi động (khung thông tin )
+social:
+  facebook: ""
+  zalo_oa: ""
+  website: ""
+
+# Cấu hình riêng cho các lệnh Free Fire (td.js/tdlg.js/autotd.js) — nếu cần
+freefire:
+  garena_region: "vn"
